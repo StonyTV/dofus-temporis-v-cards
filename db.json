@@ -1,6 +1,6 @@
 {"_info" : "Dofus Temporis V - Utilisation pour le site : chinq.fr", "indexDB":  [
   {
-      "id": "224001",
+      "id": 224001,
       "name": "Potion de Donzelle",
       "color": "Classique",
       "type": "Coeur",
@@ -8,7 +8,7 @@
       "level": "160"
   },
   {
-      "id": "224002",
+      "id": 224002,
       "name": "Substrat de Buisson",
       "color": "Classique",
       "type": "Coeur",
@@ -16,7 +16,7 @@
       "level": "20"
   },
   {
-      "id": "224003",
+      "id": 224003,
       "name": "Planche Contreplaquée",
       "color": "Classique",
       "type": "Coeur",
@@ -24,7 +24,7 @@
       "level": "20"
   },
   {
-      "id": "224004",
+      "id": 224004,
       "name": "Substrat de Bocage",
       "color": "Classique",
       "type": "Coeur",
@@ -32,7 +32,7 @@
       "level": "40"
   },
   {
-      "id": "224005",
+      "id": 224005,
       "name": "Substrat de Futaie",
       "color": "Classique",
       "type": "Coeur",
@@ -40,7 +40,7 @@
       "level": "60"
   },
   {
-      "id": "224006",
+      "id": 224006,
       "name": "Planche de Surf",
       "color": "Classique",
       "type": "Coeur",
@@ -48,7 +48,7 @@
       "level": "60"
   },
   {
-      "id": "224007",
+      "id": 224007,
       "name": "Bois d'if",
       "color": "Classique",
       "type": "Coeur",
@@ -56,7 +56,7 @@
       "level": "100"
   },
   {
-      "id": "224008",
+      "id": 224008,
       "name": "Planche à Pâtisserie",
       "color": "Rare",
       "type": "Coeur",
@@ -64,7 +64,7 @@
       "level": "120"
   },
   {
-      "id": "224009",
+      "id": 224009,
       "name": "Planche de Gravure",
       "color": "Rare",
       "type": "Coeur",
@@ -72,7 +72,7 @@
       "level": "140"
   },
   {
-      "id": "224010",
+      "id": 224010,
       "name": "Papillote au Citron",
       "color": "Classique",
       "type": "Coeur",
@@ -80,7 +80,7 @@
       "level": "40"
   },
   {
-      "id": "224011",
+      "id": 224011,
       "name": "Parmentier à l'Oignon",
       "color": "Classique",
       "type": "Coeur",
@@ -88,7 +88,7 @@
       "level": "70"
   },
   {
-      "id": "224012",
+      "id": 224012,
       "name": "Pot-au-feu Goûteux",
       "color": "Classique",
       "type": "Coeur",
@@ -96,7 +96,7 @@
       "level": "90"
   },
   {
-      "id": "224013",
+      "id": 224013,
       "name": "Poêlée Paysanne",
       "color": "Classique",
       "type": "Coeur",
@@ -104,7 +104,7 @@
       "level": "100"
   },
   {
-      "id": "224014",
+      "id": 224014,
       "name": "Grillade Brâkmarienne",
       "color": "Classique",
       "type": "Coeur",
@@ -112,7 +112,7 @@
       "level": "120"
   },
   {
-      "id": "224015",
+      "id": 224015,
       "name": "Andouillette de Gibier",
       "color": "Classique",
       "type": "Coeur",
@@ -120,7 +120,7 @@
       "level": "190"
   },
   {
-      "id": "224016",
+      "id": 224016,
       "name": "Saucisse Fumée",
       "color": "Classique",
       "type": "Coeur",
@@ -128,7 +128,7 @@
       "level": "200"
   },
   {
-      "id": "224017",
+      "id": 224017,
       "name": "Ferrite",
       "color": "Classique",
       "type": "Coeur",
@@ -136,7 +136,7 @@
       "level": "1"
   },
   {
-      "id": "224018",
+      "id": 224018,
       "name": "Petite pierre d'âme parfaite",
       "color": "Classique",
       "type": "Coeur",
@@ -144,7 +144,7 @@
       "level": "10"
   },
   {
-      "id": "224019",
+      "id": 224019,
       "name": "Cristal",
       "color": "Classique",
       "type": "Coeur",
@@ -152,7 +152,7 @@
       "level": "40"
   },
   {
-      "id": "224020",
+      "id": 224020,
       "name": "Nacre",
       "color": "Rare",
       "type": "Coeur",
@@ -160,7 +160,7 @@
       "level": "40"
   },
   {
-      "id": "224021",
+      "id": 224021,
       "name": "Rubis",
       "color": "Rare",
       "type": "Coeur",
@@ -168,7 +168,7 @@
       "level": "50"
   },
   {
-      "id": "224022",
+      "id": 224022,
       "name": "Topaze",
       "color": "Classique",
       "type": "Coeur",
@@ -176,7 +176,7 @@
       "level": "110"
   },
   {
-      "id": "224023",
+      "id": 224023,
       "name": "Kobalite",
       "color": "Classique",
       "type": "Coeur",
@@ -184,7 +184,7 @@
       "level": "140"
   },
   {
-      "id": "224024",
+      "id": 224024,
       "name": "Rutile",
       "color": "Rare",
       "type": "Coeur",
@@ -192,7 +192,7 @@
       "level": "160"
   },
   {
-      "id": "224025",
+      "id": 224025,
       "name": "Alliogemme",
       "color": "Classique",
       "type": "Coeur",
@@ -200,7 +200,7 @@
       "level": "160"
   },
   {
-      "id": "224026",
+      "id": 224026,
       "name": "Orbe régénérant majeur",
       "color": "Classique",
       "type": "Coeur",
@@ -208,7 +208,7 @@
       "level": "180"
   },
   {
-      "id": "224027",
+      "id": 224027,
       "name": "Pain d'épice",
       "color": "Rare",
       "type": "Coeur",
@@ -216,7 +216,7 @@
       "level": "90"
   },
   {
-      "id": "224028",
+      "id": 224028,
       "name": "Bûche de Bambou",
       "color": "Classique",
       "type": "Coeur",
@@ -224,7 +224,7 @@
       "level": "110"
   },
   {
-      "id": "224029",
+      "id": 224029,
       "name": "Kralamoure Grillé",
       "color": "Classique",
       "type": "Coeur",
@@ -232,7 +232,7 @@
       "level": "90"
   },
   {
-      "id": "224030",
+      "id": 224030,
       "name": "Perche Sautée",
       "color": "Classique",
       "type": "Coeur",
@@ -240,7 +240,7 @@
       "level": "120"
   },
   {
-      "id": "224031",
+      "id": 224031,
       "name": "Salace de Lotte",
       "color": "Classique",
       "type": "Coeur",
@@ -248,7 +248,7 @@
       "level": "140"
   },
   {
-      "id": "224032",
+      "id": 224032,
       "name": "Salace de Poissons",
       "color": "Classique",
       "type": "Coeur",
@@ -256,7 +256,7 @@
       "level": "153"
   },
   {
-      "id": "224033",
+      "id": 224033,
       "name": "Estouffade de Morue",
       "color": "Classique",
       "type": "Coeur",
@@ -264,7 +264,7 @@
       "level": "170"
   },
   {
-      "id": "224034",
+      "id": 224034,
       "name": "Poisskaille givré en Fricassée",
       "color": "Rare",
       "type": "Coeur",
@@ -272,7 +272,7 @@
       "level": "200"
   },
   {
-      "id": "224035",
+      "id": 224035,
       "name": "Amulette du piou rouge",
       "color": "Classique",
       "type": "Coeur",
@@ -280,7 +280,7 @@
       "level": "11"
   },
   {
-      "id": "224036",
+      "id": 224036,
       "name": "Alliance d'Hichète",
       "color": "Classique",
       "type": "Coeur",
@@ -288,7 +288,7 @@
       "level": "53"
   },
   {
-      "id": "224037",
+      "id": 224037,
       "name": "Anneau du Dragon cochon",
       "color": "Classique",
       "type": "Coeur",
@@ -296,7 +296,7 @@
       "level": "108"
   },
   {
-      "id": "224038",
+      "id": 224038,
       "name": "Collier de Perlouzes",
       "color": "Classique",
       "type": "Coeur",
@@ -304,7 +304,7 @@
       "level": "130"
   },
   {
-      "id": "224039",
+      "id": 224039,
       "name": "La meulette",
       "color": "Classique",
       "type": "Coeur",
@@ -312,7 +312,7 @@
       "level": "143"
   },
   {
-      "id": "224040",
+      "id": 224040,
       "name": "Amulette de cantile",
       "color": "Classique",
       "type": "Coeur",
@@ -320,7 +320,7 @@
       "level": "156"
   },
   {
-      "id": "224041",
+      "id": 224041,
       "name": "Anneau de Koumiho",
       "color": "Classique",
       "type": "Coeur",
@@ -328,7 +328,7 @@
       "level": "164"
   },
   {
-      "id": "224042",
+      "id": 224042,
       "name": "Clef du Cimetière des Mastodontes",
       "color": "Classique",
       "type": "Coeur",
@@ -336,7 +336,7 @@
       "level": "80"
   },
   {
-      "id": "224043",
+      "id": 224043,
       "name": "Clef du labyrinthe du dragon cochon",
       "color": "Classique",
       "type": "Coeur",
@@ -344,7 +344,7 @@
       "level": "100"
   },
   {
-      "id": "224044",
+      "id": 224044,
       "name": "Clef de la Tanière du Meulou",
       "color": "Classique",
       "type": "Coeur",
@@ -352,7 +352,7 @@
       "level": "100"
   },
   {
-      "id": "224045",
+      "id": 224045,
       "name": "Clef de la Pyramide d'Ombre",
       "color": "Rare",
       "type": "Coeur",
@@ -360,7 +360,7 @@
       "level": "190"
   },
   {
-      "id": "224046",
+      "id": 224046,
       "name": "Clef de la Tempete de l'Eliocalypse",
       "color": "Rare",
       "type": "Coeur",
@@ -368,7 +368,7 @@
       "level": "200"
   },
   {
-      "id": "224047",
+      "id": 224047,
       "name": "Ceinture Piquante",
       "color": "Classique",
       "type": "Coeur",
@@ -376,7 +376,7 @@
       "level": "26"
   },
   {
-      "id": "224048",
+      "id": 224048,
       "name": "Gladialeçon",
       "color": "Classique",
       "type": "Coeur",
@@ -384,7 +384,7 @@
       "level": "46"
   },
   {
-      "id": "224049",
+      "id": 224049,
       "name": "Bottes d'Hulkrap",
       "color": "Classique",
       "type": "Coeur",
@@ -392,7 +392,7 @@
       "level": "53"
   },
   {
-      "id": "224050",
+      "id": 224050,
       "name": "Gruchaussures",
       "color": "Classique",
       "type": "Coeur",
@@ -400,7 +400,7 @@
       "level": "127"
   },
   {
-      "id": "224051",
+      "id": 224051,
       "name": "Cacture",
       "color": "Classique",
       "type": "Coeur",
@@ -408,7 +408,7 @@
       "level": "133"
   },
   {
-      "id": "224052",
+      "id": 224052,
       "name": "Ceinture de Grozilla",
       "color": "Classique",
       "type": "Coeur",
@@ -416,7 +416,7 @@
       "level": "158"
   },
   {
-      "id": "224053",
+      "id": 224053,
       "name": "Sandales Binosses",
       "color": "Classique",
       "type": "Coeur",
@@ -424,7 +424,7 @@
       "level": "166"
   },
   {
-      "id": "224054",
+      "id": 224054,
       "name": "Pého mineure",
       "color": "Classique",
       "type": "Coeur",
@@ -432,7 +432,7 @@
       "level": "23"
   },
   {
-      "id": "224055",
+      "id": 224055,
       "name": "Bouclier du craqueleur",
       "color": "Classique",
       "type": "Coeur",
@@ -440,7 +440,7 @@
       "level": "40"
   },
   {
-      "id": "224056",
+      "id": 224056,
       "name": "Derma Tho",
       "color": "Classique",
       "type": "Coeur",
@@ -448,7 +448,7 @@
       "level": "65"
   },
   {
-      "id": "224057",
+      "id": 224057,
       "name": "Mangeuse de Frêne",
       "color": "Classique",
       "type": "Coeur",
@@ -456,7 +456,7 @@
       "level": "8"
   },
   {
-      "id": "224058",
+      "id": 224058,
       "name": "Pelle à Thart'",
       "color": "Classique",
       "type": "Coeur",
@@ -464,7 +464,7 @@
       "level": "24"
   },
   {
-      "id": "224059",
+      "id": 224059,
       "name": "Marteau du Boufcoul",
       "color": "Classique",
       "type": "Coeur",
@@ -472,7 +472,7 @@
       "level": "41"
   },
   {
-      "id": "224060",
+      "id": 224060,
       "name": "Le Cutter",
       "color": "Classique",
       "type": "Coeur",
@@ -480,7 +480,7 @@
       "level": "64"
   },
   {
-      "id": "224061",
+      "id": 224061,
       "name": "Fendeuse d'Abraknyde",
       "color": "Classique",
       "type": "Coeur",
@@ -488,7 +488,7 @@
       "level": "74"
   },
   {
-      "id": "224062",
+      "id": 224062,
       "name": "Dague Rafeuse",
       "color": "Classique",
       "type": "Coeur",
@@ -496,7 +496,7 @@
       "level": "91"
   },
   {
-      "id": "224063",
+      "id": 224063,
       "name": "La Hache Ticot",
       "color": "Classique",
       "type": "Coeur",
@@ -504,7 +504,7 @@
       "level": "110"
   },
   {
-      "id": "224064",
+      "id": 224064,
       "name": "Le Sabre Ayassalama",
       "color": "Classique",
       "type": "Coeur",
@@ -512,7 +512,7 @@
       "level": "143"
   },
   {
-      "id": "224065",
+      "id": 224065,
       "name": "Fuschia",
       "color": "Classique",
       "type": "Coeur",
@@ -520,7 +520,7 @@
       "level": "163"
   },
   {
-      "id": "224066",
+      "id": 224066,
       "name": "Dagues Ricol",
       "color": "Classique",
       "type": "Coeur",
@@ -528,7 +528,7 @@
       "level": "198"
   },
   {
-      "id": "224067",
+      "id": 224067,
       "name": "Arc à Chon",
       "color": "Classique",
       "type": "Coeur",
@@ -536,7 +536,7 @@
       "level": "147"
   },
   {
-      "id": "224068",
+      "id": 224068,
       "name": "Bâton du Harpirate",
       "color": "Classique",
       "type": "Coeur",
@@ -544,7 +544,7 @@
       "level": "154"
   },
   {
-      "id": "224069",
+      "id": 224069,
       "name": "Arc Nécrotique",
       "color": "Classique",
       "type": "Coeur",
@@ -552,7 +552,7 @@
       "level": "200"
   },
   {
-      "id": "224070",
+      "id": 224070,
       "name": "Abracaska",
       "color": "Classique",
       "type": "Coeur",
@@ -560,7 +560,7 @@
       "level": "45"
   },
   {
-      "id": "224071",
+      "id": 224071,
       "name": "Coiffe du Chef Crocodaille",
       "color": "Classique",
       "type": "Coeur",
@@ -568,7 +568,7 @@
       "level": "70"
   },
   {
-      "id": "224072",
+      "id": 224072,
       "name": "Capuche Souveraine du Roissingue",
       "color": "Rare",
       "type": "Coeur",
@@ -576,7 +576,7 @@
       "level": "168"
   },
   {
-      "id": "224073",
+      "id": 224073,
       "name": "Cape de Tengu Givrefoux",
       "color": "Classique",
       "type": "Coeur",
@@ -584,7 +584,7 @@
       "level": "175"
   },
   {
-      "id": "224074",
+      "id": 224074,
       "name": "Cape d'Ogivol",
       "color": "Classique",
       "type": "Coeur",
@@ -592,7 +592,7 @@
       "level": "186"
   },
   {
-      "id": "224075",
+      "id": 224075,
       "name": "Capignon",
       "color": "Classique",
       "type": "Coeur",
@@ -600,7 +600,7 @@
       "level": "190"
   },
   {
-      "id": "224076",
+      "id": 224076,
       "name": "Kanigs des dents de Pierre",
       "color": "Classique",
       "type": "Coeur",
@@ -608,7 +608,7 @@
       "level": "160"
   },
   {
-      "id": "224077",
+      "id": 224077,
       "name": "Porkass",
       "color": "Classique",
       "type": "Coeur",
@@ -616,7 +616,7 @@
       "level": "50"
   },
   {
-      "id": "224078",
+      "id": 224078,
       "name": "Troolls de Litneg",
       "color": "Classique",
       "type": "Coeur",
@@ -624,7 +624,7 @@
       "level": "120"
   },
   {
-      "id": "224079",
+      "id": 224079,
       "name": "Mansots",
       "color": "Classique",
       "type": "Coeur",
@@ -632,7 +632,7 @@
       "level": "140"
   },
   {
-      "id": "224080",
+      "id": 224080,
       "name": "Pins perdus",
       "color": "Classique",
       "type": "Coeur",
@@ -640,7 +640,7 @@
       "level": "140"
   },
   {
-      "id": "224081",
+      "id": 224081,
       "name": "Submergés",
       "color": "Classique",
       "type": "Coeur",
@@ -648,7 +648,7 @@
       "level": "190"
   },
   {
-      "id": "224082",
+      "id": 224082,
       "name": "Gros bworks",
       "color": "Rare",
       "type": "Coeur",
@@ -656,7 +656,7 @@
       "level": "180"
   },
   {
-      "id": "224083",
+      "id": 224083,
       "name": "Craqueleurs",
       "color": "Rare",
       "type": "Coeur",
@@ -664,7 +664,7 @@
       "level": "70"
   },
   {
-      "id": "224084",
+      "id": 224084,
       "name": "Sidoas",
       "color": "Classique",
       "type": "Coeur",
@@ -672,7 +672,7 @@
       "level": "30"
   },
   {
-      "id": "224085",
+      "id": 224085,
       "name": "Fantômes",
       "color": "Classique",
       "type": "Coeur",
@@ -680,7 +680,7 @@
       "level": "50"
   },
   {
-      "id": "224086",
+      "id": 224086,
       "name": "Crocodailles de Crocuzko",
       "color": "Classique",
       "type": "Coeur",
@@ -688,7 +688,7 @@
       "level": "190"
   },
   {
-      "id": "224087",
+      "id": 224087,
       "name": "Sanguinaires",
       "color": "Classique",
       "type": "Coeur",
@@ -696,7 +696,7 @@
       "level": "190"
   },
   {
-      "id": "224088",
+      "id": 224088,
       "name": "Monstres de la Jungle Interdite",
       "color": "Classique",
       "type": "Coeur",
@@ -704,7 +704,7 @@
       "level": "100"
   },
   {
-      "id": "224089",
+      "id": 224089,
       "name": "Wabbits",
       "color": "Classique",
       "type": "Coeur",
@@ -712,7 +712,7 @@
       "level": "60"
   },
   {
-      "id": "224090",
+      "id": 224090,
       "name": "Gawde du Wa",
       "color": "Classique",
       "type": "Coeur",
@@ -720,7 +720,7 @@
       "level": "80"
   },
   {
-      "id": "224091",
+      "id": 224091,
       "name": "Arbre Hakam",
       "color": "Classique",
       "type": "Coeur",
@@ -728,7 +728,7 @@
       "level": "130"
   },
   {
-      "id": "224092",
+      "id": 224092,
       "name": "Plaines herbeuses",
       "color": "Classique",
       "type": "Coeur",
@@ -736,7 +736,7 @@
       "level": "80"
   },
   {
-      "id": "224093",
+      "id": 224093,
       "name": "Firefoux",
       "color": "Classique",
       "type": "Coeur",
@@ -744,7 +744,7 @@
       "level": "140"
   },
   {
-      "id": "224094",
+      "id": 224094,
       "name": "Yokaï des Tombeaux",
       "color": "Classique",
       "type": "Coeur",
@@ -752,7 +752,7 @@
       "level": "170"
   },
   {
-      "id": "224095",
+      "id": 224095,
       "name": "Cacterres",
       "color": "Classique",
       "type": "Coeur",
@@ -760,7 +760,7 @@
       "level": "130"
   },
   {
-      "id": "224096",
+      "id": 224096,
       "name": "Bouftous",
       "color": "Classique",
       "type": "Coeur",
@@ -768,7 +768,7 @@
       "level": "30"
   },
   {
-      "id": "224097",
+      "id": 224097,
       "name": "Champis",
       "color": "Classique",
       "type": "Coeur",
@@ -776,7 +776,7 @@
       "level": "40"
   },
   {
-      "id": "224098",
+      "id": 224098,
       "name": "Tofus",
       "color": "Classique",
       "type": "Coeur",
@@ -784,7 +784,7 @@
       "level": "40"
   },
   {
-      "id": "224099",
+      "id": 224099,
       "name": "Egarés",
       "color": "Classique",
       "type": "Coeur",
@@ -792,7 +792,7 @@
       "level": "190"
   },
   {
-      "id": "224100",
+      "id": 224100,
       "name": "Koffrefors",
       "color": "Rare",
       "type": "Coeur",
@@ -800,7 +800,7 @@
       "level": "100"
   },
   {
-      "id": "224101",
+      "id": 224101,
       "name": "Calcinés",
       "color": "Classique",
       "type": "Coeur",
@@ -808,7 +808,7 @@
       "level": "190"
   },
   {
-      "id": "224102",
+      "id": 224102,
       "name": "Mercemers",
       "color": "Classique",
       "type": "Coeur",
@@ -816,7 +816,7 @@
       "level": "190"
   },
   {
-      "id": "224103",
+      "id": 224103,
       "name": "Trithons",
       "color": "Classique",
       "type": "Coeur",
@@ -824,7 +824,7 @@
       "level": "190"
   },
   {
-      "id": "224104",
+      "id": 224104,
       "name": "Blop Multicolore royal",
       "color": "Classique",
       "type": "Coeur",
@@ -832,7 +832,7 @@
       "level": "120"
   },
   {
-      "id": "224105",
+      "id": 224105,
       "name": "Missiz Frizz",
       "color": "Classique",
       "type": "Coeur",
@@ -840,7 +840,7 @@
       "level": "190"
   },
   {
-      "id": "224106",
+      "id": 224106,
       "name": "Sylarg",
       "color": "Classique",
       "type": "Coeur",
@@ -848,7 +848,7 @@
       "level": "190"
   },
   {
-      "id": "224107",
+      "id": 224107,
       "name": "Ilyzaelle",
       "color": "Classique",
       "type": "Coeur",
@@ -856,7 +856,7 @@
       "level": "190"
   },
   {
-      "id": "224108",
+      "id": 224108,
       "name": "Grolloum",
       "color": "Classique",
       "type": "Coeur",
@@ -864,7 +864,7 @@
       "level": "190"
   },
   {
-      "id": "224109",
+      "id": 224109,
       "name": "Chêne Mou",
       "color": "Classique",
       "type": "Coeur",
@@ -872,7 +872,7 @@
       "level": "140"
   },
   {
-      "id": "224110",
+      "id": 224110,
       "name": "Crocabulia",
       "color": "Classique",
       "type": "Coeur",
@@ -880,7 +880,7 @@
       "level": "120"
   },
   {
-      "id": "224111",
+      "id": 224111,
       "name": "Boostache",
       "color": "Classique",
       "type": "Coeur",
@@ -888,7 +888,7 @@
       "level": "40"
   },
   {
-      "id": "224112",
+      "id": 224112,
       "name": "Torkélonia",
       "color": "Classique",
       "type": "Coeur",
@@ -896,7 +896,7 @@
       "level": "190"
   },
   {
-      "id": "224113",
+      "id": 224113,
       "name": "Servitude",
       "color": "Classique",
       "type": "Coeur",
@@ -904,7 +904,7 @@
       "level": "190"
   },
   {
-      "id": "224114",
+      "id": 224114,
       "name": "Kanniboul Ebil",
       "color": "Classique",
       "type": "Coeur",
@@ -912,7 +912,7 @@
       "level": "60"
   },
   {
-      "id": "224115",
+      "id": 224115,
       "name": "Tynril",
       "color": "Classique",
       "type": "Coeur",
@@ -920,7 +920,7 @@
       "level": "140"
   },
   {
-      "id": "224116",
+      "id": 224116,
       "name": "Koumiho",
       "color": "Classique",
       "type": "Coeur",
@@ -928,7 +928,7 @@
       "level": "170"
   },
   {
-      "id": "224117",
+      "id": 224117,
       "name": "Tal kasha",
       "color": "Classique",
       "type": "Coeur",
@@ -936,7 +936,7 @@
       "level": "190"
   },
   {
-      "id": "224118",
+      "id": 224118,
       "name": "Maitre des pantins",
       "color": "Rare",
       "type": "Coeur",
@@ -944,7 +944,7 @@
       "level": "100"
   },
   {
-      "id": "224119",
+      "id": 224119,
       "name": "Toxoliath",
       "color": "Rare",
       "type": "Coeur",
@@ -952,7 +952,7 @@
       "level": "180"
   },
   {
-      "id": "224120",
+      "id": 224120,
       "name": "Phossile",
       "color": "Classique",
       "type": "Coeur",
@@ -960,7 +960,7 @@
       "level": "150"
   },
   {
-      "id": "224121",
+      "id": 224121,
       "name": "Shin Larve",
       "color": "Rare",
       "type": "Coeur",
@@ -968,7 +968,7 @@
       "level": "50"
   },
   {
-      "id": "224122",
+      "id": 224122,
       "name": "Solar",
       "color": "Classique",
       "type": "Coeur",
@@ -976,7 +976,7 @@
       "level": "190"
   },
   {
-      "id": "224123",
+      "id": 224123,
       "name": "Nelween",
       "color": "Classique",
       "type": "Coeur",
@@ -984,7 +984,7 @@
       "level": "70"
   },
   {
-      "id": "224124",
+      "id": 224124,
       "name": "Meulou",
       "color": "Classique",
       "type": "Coeur",
@@ -992,7 +992,7 @@
       "level": "100"
   },
   {
-      "id": "224125",
+      "id": 224125,
       "name": "Haute Truche",
       "color": "Rare",
       "type": "Coeur",
@@ -1000,7 +1000,7 @@
       "level": "130"
   },
   {
-      "id": "224126",
+      "id": 224126,
       "name": "Shogun Tofugawa",
       "color": "Classique",
       "type": "Coeur",
@@ -1008,7 +1008,7 @@
       "level": "160"
   },
   {
-      "id": "224127",
+      "id": 224127,
       "name": "Rat Blanc",
       "color": "Classique",
       "type": "Coeur",
@@ -1016,7 +1016,7 @@
       "level": "110"
   },
   {
-      "id": "224128",
+      "id": 224128,
       "name": "Plantalas",
       "color": "Classique",
       "type": "Coeur",
@@ -1024,7 +1024,7 @@
       "level": "110"
   },
   {
-      "id": "224129",
+      "id": 224129,
       "name": "Potion Géniale",
       "color": "Classique",
       "type": "Carreau",
@@ -1032,7 +1032,7 @@
       "level": "80"
   },
   {
-      "id": "224130",
+      "id": 224130,
       "name": "Sang de Trooll",
       "color": "Classique",
       "type": "Carreau",
@@ -1040,7 +1040,7 @@
       "level": "120"
   },
   {
-      "id": "224131",
+      "id": 224131,
       "name": "Potion d'altération",
       "color": "Rare",
       "type": "Carreau",
@@ -1048,7 +1048,7 @@
       "level": "155"
   },
   {
-      "id": "224132",
+      "id": 224132,
       "name": "Larme d'Enirispa",
       "color": "Classique",
       "type": "Carreau",
@@ -1056,7 +1056,7 @@
       "level": "160"
   },
   {
-      "id": "224133",
+      "id": 224133,
       "name": "Eau de la Fontaine de Noffoub",
       "color": "Classique",
       "type": "Carreau",
@@ -1064,7 +1064,7 @@
       "level": "165"
   },
   {
-      "id": "224134",
+      "id": 224134,
       "name": "Potion Axel Raide",
       "color": "Rare",
       "type": "Carreau",
@@ -1072,7 +1072,7 @@
       "level": "170"
   },
   {
-      "id": "224135",
+      "id": 224135,
       "name": "Potion Revitalisante",
       "color": "Classique",
       "type": "Carreau",
@@ -1080,7 +1080,7 @@
       "level": "180"
   },
   {
-      "id": "224136",
+      "id": 224136,
       "name": "Planche Agglomérée",
       "color": "Classique",
       "type": "Carreau",
@@ -1088,7 +1088,7 @@
       "level": "1"
   },
   {
-      "id": "224137",
+      "id": 224137,
       "name": "Substrat de Forêt",
       "color": "Classique",
       "type": "Carreau",
@@ -1096,7 +1096,7 @@
       "level": "160"
   },
   {
-      "id": "224138",
+      "id": 224138,
       "name": "Planche à Pain",
       "color": "Rare",
       "type": "Carreau",
@@ -1104,7 +1104,7 @@
       "level": "160"
   },
   {
-      "id": "224139",
+      "id": 224139,
       "name": "Substrat de Sylve",
       "color": "Classique",
       "type": "Carreau",
@@ -1112,7 +1112,7 @@
       "level": "200"
   },
   {
-      "id": "224140",
+      "id": 224140,
       "name": "Planche de Salut",
       "color": "Classique",
       "type": "Carreau",
@@ -1120,7 +1120,7 @@
       "level": "200"
   },
   {
-      "id": "224141",
+      "id": 224141,
       "name": "Grillade Brâkmarienne Fortifiante",
       "color": "Classique",
       "type": "Carreau",
@@ -1128,7 +1128,7 @@
       "level": "120"
   },
   {
-      "id": "224142",
+      "id": 224142,
       "name": "Marinade Sucrée-Salée",
       "color": "Classique",
       "type": "Carreau",
@@ -1136,7 +1136,7 @@
       "level": "130"
   },
   {
-      "id": "224143",
+      "id": 224143,
       "name": "Boudin Noir",
       "color": "Classique",
       "type": "Carreau",
@@ -1144,7 +1144,7 @@
       "level": "140"
   },
   {
-      "id": "224144",
+      "id": 224144,
       "name": "Boudin Noir Fortifiant",
       "color": "Rare",
       "type": "Carreau",
@@ -1152,7 +1152,7 @@
       "level": "140"
   },
   {
-      "id": "224145",
+      "id": 224145,
       "name": "Daube aux Épices",
       "color": "Classique",
       "type": "Carreau",
@@ -1160,7 +1160,7 @@
       "level": "150"
   },
   {
-      "id": "224146",
+      "id": 224146,
       "name": "Quenelle Tijan",
       "color": "Rare",
       "type": "Carreau",
@@ -1168,7 +1168,7 @@
       "level": "180"
   },
   {
-      "id": "224147",
+      "id": 224147,
       "name": "Giga Pierre d'âme",
       "color": "Classique",
       "type": "Carreau",
@@ -1176,7 +1176,7 @@
       "level": "1"
   },
   {
-      "id": "224148",
+      "id": 224148,
       "name": "Bakélélite",
       "color": "Classique",
       "type": "Carreau",
@@ -1184,7 +1184,7 @@
       "level": "80"
   },
   {
-      "id": "224149",
+      "id": 224149,
       "name": "Orbe régénérant",
       "color": "Classique",
       "type": "Carreau",
@@ -1192,7 +1192,7 @@
       "level": "120"
   },
   {
-      "id": "224150",
+      "id": 224150,
       "name": "Huile de Noix",
       "color": "Classique",
       "type": "Carreau",
@@ -1200,7 +1200,7 @@
       "level": "32"
   },
   {
-      "id": "224151",
+      "id": 224151,
       "name": "Pain de Mie",
       "color": "Classique",
       "type": "Carreau",
@@ -1208,7 +1208,7 @@
       "level": "50"
   },
   {
-      "id": "224152",
+      "id": 224152,
       "name": "Gaufre",
       "color": "Classique",
       "type": "Carreau",
@@ -1216,7 +1216,7 @@
       "level": "100"
   },
   {
-      "id": "224153",
+      "id": 224153,
       "name": "Bûche d'Érable",
       "color": "Rare",
       "type": "Carreau",
@@ -1224,7 +1224,7 @@
       "level": "80"
   },
   {
-      "id": "224154",
+      "id": 224154,
       "name": "Bûche d'Oliviolet",
       "color": "Rare",
       "type": "Carreau",
@@ -1232,7 +1232,7 @@
       "level": "90"
   },
   {
-      "id": "224155",
+      "id": 224155,
       "name": "Gaufre en or",
       "color": "Classique",
       "type": "Carreau",
@@ -1240,7 +1240,7 @@
       "level": "100"
   },
   {
-      "id": "224156",
+      "id": 224156,
       "name": "Mantou",
       "color": "Classique",
       "type": "Carreau",
@@ -1248,7 +1248,7 @@
       "level": "150"
   },
   {
-      "id": "224157",
+      "id": 224157,
       "name": "Bûche de Bambou",
       "color": "Classique",
       "type": "Carreau",
@@ -1256,7 +1256,7 @@
       "level": "110"
   },
   {
-      "id": "224158",
+      "id": 224158,
       "name": "Pain Ture",
       "color": "Classique",
       "type": "Carreau",
@@ -1264,7 +1264,7 @@
       "level": "200"
   },
   {
-      "id": "224159",
+      "id": 224159,
       "name": "Poisson-Tigre Fumé",
       "color": "Rare",
       "type": "Carreau",
@@ -1272,7 +1272,7 @@
       "level": "40"
   },
   {
-      "id": "224160",
+      "id": 224160,
       "name": "Carpette Vapeur",
       "color": "Rare",
       "type": "Carreau",
@@ -1280,7 +1280,7 @@
       "level": "60"
   },
   {
-      "id": "224161",
+      "id": 224161,
       "name": "Jus de poisson pestilentiel",
       "color": "Classique",
       "type": "Carreau",
@@ -1288,7 +1288,7 @@
       "level": "200"
   },
   {
-      "id": "224162",
+      "id": 224162,
       "name": "Aiguille Souroche Rôtie",
       "color": "Classique",
       "type": "Carreau",
@@ -1296,7 +1296,7 @@
       "level": "100"
   },
   {
-      "id": "224163",
+      "id": 224163,
       "name": "Dorade au four",
       "color": "Classique",
       "type": "Carreau",
@@ -1304,7 +1304,7 @@
       "level": "110"
   },
   {
-      "id": "224164",
+      "id": 224164,
       "name": "Espadon Poêlé",
       "color": "Classique",
       "type": "Carreau",
@@ -1312,7 +1312,7 @@
       "level": "190"
   },
   {
-      "id": "224165",
+      "id": 224165,
       "name": "Anneau Rak",
       "color": "Classique",
       "type": "Carreau",
@@ -1320,7 +1320,7 @@
       "level": "17"
   },
   {
-      "id": "224166",
+      "id": 224166,
       "name": "Gelano",
       "color": "Classique",
       "type": "Carreau",
@@ -1328,7 +1328,7 @@
       "level": "60"
   },
   {
-      "id": "224167",
+      "id": 224167,
       "name": "Amublop Multicolore Royale",
       "color": "Classique",
       "type": "Carreau",
@@ -1336,7 +1336,7 @@
       "level": "90"
   },
   {
-      "id": "224168",
+      "id": 224168,
       "name": "Amulette du gorgouille",
       "color": "Classique",
       "type": "Carreau",
@@ -1344,7 +1344,7 @@
       "level": "96"
   },
   {
-      "id": "224169",
+      "id": 224169,
       "name": "Amulette de nileza",
       "color": "Classique",
       "type": "Carreau",
@@ -1352,7 +1352,7 @@
       "level": "196"
   },
   {
-      "id": "224170",
+      "id": 224170,
       "name": "Clef du Château Ensablé",
       "color": "Classique",
       "type": "Carreau",
@@ -1360,7 +1360,7 @@
       "level": "20"
   },
   {
-      "id": "224171",
+      "id": 224171,
       "name": "Clef de la Maison Fantôme",
       "color": "Classique",
       "type": "Carreau",
@@ -1368,7 +1368,7 @@
       "level": "40"
   },
   {
-      "id": "224172",
+      "id": 224172,
       "name": "Clef du Château du Wa Wabbit",
       "color": "Classique",
       "type": "Carreau",
@@ -1376,7 +1376,7 @@
       "level": "60"
   },
   {
-      "id": "224173",
+      "id": 224173,
       "name": "Clef de l'hypogée de l'Obsidiantre",
       "color": "Classique",
       "type": "Carreau",
@@ -1384,7 +1384,7 @@
       "level": "160"
   },
   {
-      "id": "224174",
+      "id": 224174,
       "name": "Clef de l'Horologium de XLII",
       "color": "Classique",
       "type": "Carreau",
@@ -1392,7 +1392,7 @@
       "level": "170"
   },
   {
-      "id": "224175",
+      "id": 224175,
       "name": "Clef du Donjon du Comte Harebourg",
       "color": "Rare",
       "type": "Carreau",
@@ -1400,7 +1400,7 @@
       "level": "200"
   },
   {
-      "id": "224176",
+      "id": 224176,
       "name": "Ceinture Aerdala",
       "color": "Classique",
       "type": "Carreau",
@@ -1408,7 +1408,7 @@
       "level": "70"
   },
   {
-      "id": "224177",
+      "id": 224177,
       "name": "Bottes Ouroboulos",
       "color": "Classique",
       "type": "Carreau",
@@ -1416,7 +1416,7 @@
       "level": "83"
   },
   {
-      "id": "224178",
+      "id": 224178,
       "name": "Gaine Nyée",
       "color": "Classique",
       "type": "Carreau",
@@ -1424,7 +1424,7 @@
       "level": "90"
   },
   {
-      "id": "224179",
+      "id": 224179,
       "name": "Bottes Phossiles",
       "color": "Classique",
       "type": "Carreau",
@@ -1432,7 +1432,7 @@
       "level": "151"
   },
   {
-      "id": "224180",
+      "id": 224180,
       "name": "Pétunia mineure",
       "color": "Classique",
       "type": "Carreau",
@@ -1440,7 +1440,7 @@
       "level": "13"
   },
   {
-      "id": "224181",
+      "id": 224181,
       "name": "Hulhu",
       "color": "Classique",
       "type": "Carreau",
@@ -1448,7 +1448,7 @@
       "level": "72"
   },
   {
-      "id": "224182",
+      "id": 224182,
       "name": "Dagob",
       "color": "Classique",
       "type": "Carreau",
@@ -1456,7 +1456,7 @@
       "level": "85"
   },
   {
-      "id": "224183",
+      "id": 224183,
       "name": "La Rondelle",
       "color": "Classique",
       "type": "Carreau",
@@ -1464,7 +1464,7 @@
       "level": "185"
   },
   {
-      "id": "224184",
+      "id": 224184,
       "name": "Quatre-Feuilles",
       "color": "Classique",
       "type": "Carreau",
@@ -1472,7 +1472,7 @@
       "level": "193"
   },
   {
-      "id": "224185",
+      "id": 224185,
       "name": "Dagues de Fouraille",
       "color": "Classique",
       "type": "Carreau",
@@ -1480,7 +1480,7 @@
       "level": "13"
   },
   {
-      "id": "224186",
+      "id": 224186,
       "name": "Sabre Sandanwa",
       "color": "Classique",
       "type": "Carreau",
@@ -1488,7 +1488,7 @@
       "level": "83"
   },
   {
-      "id": "224187",
+      "id": 224187,
       "name": "Scie à glace",
       "color": "Classique",
       "type": "Carreau",
@@ -1496,7 +1496,7 @@
       "level": "100"
   },
   {
-      "id": "224188",
+      "id": 224188,
       "name": "Dagues Lassay",
       "color": "Classique",
       "type": "Carreau",
@@ -1504,7 +1504,7 @@
       "level": "150"
   },
   {
-      "id": "224189",
+      "id": 224189,
       "name": "Hache Hélème",
       "color": "Classique",
       "type": "Carreau",
@@ -1512,7 +1512,7 @@
       "level": "185"
   },
   {
-      "id": "224190",
+      "id": 224190,
       "name": "Arc Hancihaile",
       "color": "Classique",
       "type": "Carreau",
@@ -1520,7 +1520,7 @@
       "level": "22"
   },
   {
-      "id": "224191",
+      "id": 224191,
       "name": "Daguette",
       "color": "Classique",
       "type": "Carreau",
@@ -1528,7 +1528,7 @@
       "level": "35"
   },
   {
-      "id": "224192",
+      "id": 224192,
       "name": "Bâton du Sandanwa",
       "color": "Classique",
       "type": "Carreau",
@@ -1536,7 +1536,7 @@
       "level": "77"
   },
   {
-      "id": "224193",
+      "id": 224193,
       "name": "La Racine Cinati",
       "color": "Classique",
       "type": "Carreau",
@@ -1544,7 +1544,7 @@
       "level": "116"
   },
   {
-      "id": "224194",
+      "id": 224194,
       "name": "Baguette Houalle",
       "color": "Classique",
       "type": "Carreau",
@@ -1552,7 +1552,7 @@
       "level": "125"
   },
   {
-      "id": "224195",
+      "id": 224195,
       "name": "Cape du Prespic",
       "color": "Classique",
       "type": "Carreau",
@@ -1560,7 +1560,7 @@
       "level": "37"
   },
   {
-      "id": "224196",
+      "id": 224196,
       "name": "Scaracape Noire",
       "color": "Classique",
       "type": "Carreau",
@@ -1568,7 +1568,7 @@
       "level": "51"
   },
   {
-      "id": "224197",
+      "id": 224197,
       "name": "Masque de l'Abrakleur sombre",
       "color": "Classique",
       "type": "Carreau",
@@ -1576,7 +1576,7 @@
       "level": "87"
   },
   {
-      "id": "224198",
+      "id": 224198,
       "name": "Gruchape",
       "color": "Classique",
       "type": "Carreau",
@@ -1584,7 +1584,7 @@
       "level": "130"
   },
   {
-      "id": "224199",
+      "id": 224199,
       "name": "Barbe de Zatoïshwan",
       "color": "Classique",
       "type": "Carreau",
@@ -1592,7 +1592,7 @@
       "level": "154"
   },
   {
-      "id": "224200",
+      "id": 224200,
       "name": "Automates des Brigandins",
       "color": "Classique",
       "type": "Carreau",
@@ -1600,7 +1600,7 @@
       "level": "60"
   },
   {
-      "id": "224201",
+      "id": 224201,
       "name": "Dopeuls",
       "color": "Classique",
       "type": "Carreau",
@@ -1608,7 +1608,7 @@
       "level": "40"
   },
   {
-      "id": "224202",
+      "id": 224202,
       "name": "Brikoléreux",
       "color": "Rare",
       "type": "Carreau",
@@ -1616,7 +1616,7 @@
       "level": "190"
   },
   {
-      "id": "224203",
+      "id": 224203,
       "name": "Clan Martegel",
       "color": "Classique",
       "type": "Carreau",
@@ -1624,7 +1624,7 @@
       "level": "190"
   },
   {
-      "id": "224204",
+      "id": 224204,
       "name": "Gloursons",
       "color": "Classique",
       "type": "Carreau",
@@ -1632,14 +1632,14 @@
       "level": "190"
   },
   {
-      "id": "224205",
+      "id": 224205,
       "name": "Abrakne Sombre",
       "color": "Classique",
       "type": "Carreau",
       "profession": "Monstres"
   },
   {
-      "id": "224206",
+      "id": 224206,
       "name": "Arak-haï",
       "color": "Classique",
       "type": "Carreau",
@@ -1647,7 +1647,7 @@
       "level": "90"
   },
   {
-      "id": "224207",
+      "id": 224207,
       "name": "Chassouilleurs",
       "color": "Classique",
       "type": "Carreau",
@@ -1655,7 +1655,7 @@
       "level": "190"
   },
   {
-      "id": "224208",
+      "id": 224208,
       "name": "Dragoeufs immatures",
       "color": "Classique",
       "type": "Carreau",
@@ -1663,7 +1663,7 @@
       "level": "70"
   },
   {
-      "id": "224209",
+      "id": 224209,
       "name": "Scarafeuilles",
       "color": "Classique",
       "type": "Carreau",
@@ -1671,7 +1671,7 @@
       "level": "40"
   },
   {
-      "id": "224210",
+      "id": 224210,
       "name": "Corrompus",
       "color": "Classique",
       "type": "Carreau",
@@ -1679,7 +1679,7 @@
       "level": "190"
   },
   {
-      "id": "224211",
+      "id": 224211,
       "name": "Plage de Corail",
       "color": "Classique",
       "type": "Carreau",
@@ -1687,7 +1687,7 @@
       "level": "40"
   },
   {
-      "id": "224212",
+      "id": 224212,
       "name": "Village des Zoths",
       "color": "Classique",
       "type": "Carreau",
@@ -1695,7 +1695,7 @@
       "level": "130"
   },
   {
-      "id": "224213",
+      "id": 224213,
       "name": "Minos",
       "color": "Classique",
       "type": "Carreau",
@@ -1703,7 +1703,7 @@
       "level": "100"
   },
   {
-      "id": "224214",
+      "id": 224214,
       "name": "Armée de Brume",
       "color": "Classique",
       "type": "Carreau",
@@ -1711,7 +1711,7 @@
       "level": "160"
   },
   {
-      "id": "224215",
+      "id": 224215,
       "name": "Kozaru",
       "color": "Classique",
       "type": "Carreau",
@@ -1719,7 +1719,7 @@
       "level": "140"
   },
   {
-      "id": "224216",
+      "id": 224216,
       "name": "Yokianzhi de papier",
       "color": "Classique",
       "type": "Carreau",
@@ -1727,7 +1727,7 @@
       "level": "190"
   },
   {
-      "id": "224217",
+      "id": 224217,
       "name": "Ecaflipuces",
       "color": "Rare",
       "type": "Carreau",
@@ -1735,7 +1735,7 @@
       "level": "120"
   },
   {
-      "id": "224218",
+      "id": 224218,
       "name": "Hordémons",
       "color": "Classique",
       "type": "Carreau",
@@ -1743,7 +1743,7 @@
       "level": "110"
   },
   {
-      "id": "224219",
+      "id": 224219,
       "name": "Nécrotiques",
       "color": "Classique",
       "type": "Carreau",
@@ -1751,7 +1751,7 @@
       "level": "180"
   },
   {
-      "id": "224220",
+      "id": 224220,
       "name": "Obscuranti",
       "color": "Classique",
       "type": "Carreau",
@@ -1759,7 +1759,7 @@
       "level": "190"
   },
   {
-      "id": "224221",
+      "id": 224221,
       "name": "Phorreurs",
       "color": "Rare",
       "type": "Carreau",
@@ -1767,7 +1767,7 @@
       "level": "150"
   },
   {
-      "id": "224222",
+      "id": 224222,
       "name": "Xélomorphes",
       "color": "Classique",
       "type": "Carreau",
@@ -1775,7 +1775,7 @@
       "level": "120"
   },
   {
-      "id": "224223",
+      "id": 224223,
       "name": "Monstres des plages",
       "color": "Classique",
       "type": "Carreau",
@@ -1783,7 +1783,7 @@
       "level": "50"
   },
   {
-      "id": "224224",
+      "id": 224224,
       "name": "Monstres des ruines sous-marines",
       "color": "Classique",
       "type": "Carreau",
@@ -1791,7 +1791,7 @@
       "level": "190"
   },
   {
-      "id": "224225",
+      "id": 224225,
       "name": "Serviteurs de l'indicible",
       "color": "Classique",
       "type": "Carreau",
@@ -1799,7 +1799,7 @@
       "level": "190"
   },
   {
-      "id": "224226",
+      "id": 224226,
       "name": "Rats",
       "color": "Classique",
       "type": "Carreau",
@@ -1807,7 +1807,7 @@
       "level": "80"
   },
   {
-      "id": "224227",
+      "id": 224227,
       "name": "Dragodindes",
       "color": "Rare",
       "type": "Carreau",
@@ -1815,7 +1815,7 @@
       "level": "70"
   },
   {
-      "id": "224228",
+      "id": 224228,
       "name": "Koalaks primitifs",
       "color": "Classique",
       "type": "Carreau",
@@ -1823,7 +1823,7 @@
       "level": "120"
   },
   {
-      "id": "224229",
+      "id": 224229,
       "name": "Blop Griotte Royal",
       "color": "Classique",
       "type": "Carreau",
@@ -1831,7 +1831,7 @@
       "level": "60"
   },
   {
-      "id": "224230",
+      "id": 224230,
       "name": "Maître Corbac",
       "color": "Rare",
       "type": "Carreau",
@@ -1839,7 +1839,7 @@
       "level": "110"
   },
   {
-      "id": "224231",
+      "id": 224231,
       "name": "Tengu Givrefoux",
       "color": "Classique",
       "type": "Carreau",
@@ -1847,7 +1847,7 @@
       "level": "170"
   },
   {
-      "id": "224232",
+      "id": 224232,
       "name": "Protozorreur",
       "color": "Classique",
       "type": "Carreau",
@@ -1855,7 +1855,7 @@
       "level": "190"
   },
   {
-      "id": "224233",
+      "id": 224233,
       "name": "Korriandre",
       "color": "Classique",
       "type": "Carreau",
@@ -1863,7 +1863,7 @@
       "level": "180"
   },
   {
-      "id": "224234",
+      "id": 224234,
       "name": "Ben le Ripate",
       "color": "Rare",
       "type": "Carreau",
@@ -1871,7 +1871,7 @@
       "level": "150"
   },
   {
-      "id": "224235",
+      "id": 224235,
       "name": "Reine Nyée",
       "color": "Classique",
       "type": "Carreau",
@@ -1879,7 +1879,7 @@
       "level": "90"
   },
   {
-      "id": "224236",
+      "id": 224236,
       "name": "Kharnozor",
       "color": "Classique",
       "type": "Carreau",
@@ -1887,7 +1887,7 @@
       "level": "100"
   },
   {
-      "id": "224237",
+      "id": 224237,
       "name": "Scarabosse Doré",
       "color": "Classique",
       "type": "Carreau",
@@ -1895,7 +1895,7 @@
       "level": "40"
   },
   {
-      "id": "224238",
+      "id": 224238,
       "name": "Bworkette",
       "color": "Classique",
       "type": "Carreau",
@@ -1903,7 +1903,7 @@
       "level": "50"
   },
   {
-      "id": "224239",
+      "id": 224239,
       "name": "Dragon Cochon",
       "color": "Classique",
       "type": "Carreau",
@@ -1911,7 +1911,7 @@
       "level": "100"
   },
   {
-      "id": "224240",
+      "id": 224240,
       "name": "Misère",
       "color": "Classique",
       "type": "Carreau",
@@ -1919,7 +1919,7 @@
       "level": "190"
   },
   {
-      "id": "224241",
+      "id": 224241,
       "name": "Wa Wobot",
       "color": "Classique",
       "type": "Carreau",
@@ -1927,7 +1927,7 @@
       "level": "80"
   },
   {
-      "id": "224242",
+      "id": 224242,
       "name": "Kimbo",
       "color": "Classique",
       "type": "Carreau",
@@ -1935,7 +1935,7 @@
       "level": "160"
   },
   {
-      "id": "224243",
+      "id": 224243,
       "name": "Gourlo le Terrible",
       "color": "Rare",
       "type": "Carreau",
@@ -1943,7 +1943,7 @@
       "level": "70"
   },
   {
-      "id": "224244",
+      "id": 224244,
       "name": "Minotot",
       "color": "Classique",
       "type": "Carreau",
@@ -1951,7 +1951,7 @@
       "level": "160"
   },
   {
-      "id": "224245",
+      "id": 224245,
       "name": "Tanukouï San",
       "color": "Classique",
       "type": "Carreau",
@@ -1959,7 +1959,7 @@
       "level": "130"
   },
   {
-      "id": "224246",
+      "id": 224246,
       "name": "Roi Imagami",
       "color": "Classique",
       "type": "Carreau",
@@ -1967,7 +1967,7 @@
       "level": "190"
   },
   {
-      "id": "224247",
+      "id": 224247,
       "name": "Pounicheur",
       "color": "Classique",
       "type": "Carreau",
@@ -1975,7 +1975,7 @@
       "level": "110"
   },
   {
-      "id": "224248",
+      "id": 224248,
       "name": "Vortex",
       "color": "Classique",
       "type": "Carreau",
@@ -1983,7 +1983,7 @@
       "level": "190"
   },
   {
-      "id": "224249",
+      "id": 224249,
       "name": "Capitaine Ekarlatte",
       "color": "Classique",
       "type": "Carreau",
@@ -1991,7 +1991,7 @@
       "level": "130"
   },
   {
-      "id": "224250",
+      "id": 224250,
       "name": "Ombre",
       "color": "Classique",
       "type": "Carreau",
@@ -1999,7 +1999,7 @@
       "level": "190"
   },
   {
-      "id": "224251",
+      "id": 224251,
       "name": "Fraktale",
       "color": "Classique",
       "type": "Carreau",
@@ -2007,7 +2007,7 @@
       "level": "120"
   },
   {
-      "id": "224252",
+      "id": 224252,
       "name": "Mob l'Éponge",
       "color": "Classique",
       "type": "Carreau",
@@ -2015,7 +2015,7 @@
       "level": "20"
   },
   {
-      "id": "224253",
+      "id": 224253,
       "name": "Merkator",
       "color": "Classique",
       "type": "Carreau",
@@ -2023,7 +2023,7 @@
       "level": "190"
   },
   {
-      "id": "224254",
+      "id": 224254,
       "name": "Capitaine Meno",
       "color": "Classique",
       "type": "Carreau",
@@ -2031,7 +2031,7 @@
       "level": "190"
   },
   {
-      "id": "224255",
+      "id": 224255,
       "name": "Dantinéa",
       "color": "Rare",
       "type": "Carreau",
@@ -2039,7 +2039,7 @@
       "level": "190"
   },
   {
-      "id": "224256",
+      "id": 224256,
       "name": "Kankreblath",
       "color": "Classique",
       "type": "Carreau",
@@ -2047,7 +2047,7 @@
       "level": "40"
   },
   {
-      "id": "224257",
+      "id": 224257,
       "name": "Potion Eau de fée",
       "color": "Rare",
       "type": "Trèfle",
@@ -2055,7 +2055,7 @@
       "level": "80"
   },
   {
-      "id": "224258",
+      "id": 224258,
       "name": "Potion de Voyageur Dimensionnel",
       "color": "Classique",
       "type": "Trèfle",
@@ -2063,7 +2063,7 @@
       "level": "80"
   },
   {
-      "id": "224259",
+      "id": 224259,
       "name": "Potion Raide Boule",
       "color": "Classique",
       "type": "Trèfle",
@@ -2071,7 +2071,7 @@
       "level": "90"
   },
   {
-      "id": "224260",
+      "id": 224260,
       "name": "Potion des Ancêtres",
       "color": "Rare",
       "type": "Trèfle",
@@ -2079,7 +2079,7 @@
       "level": "135"
   },
   {
-      "id": "224261",
+      "id": 224261,
       "name": "Potion Raide Rêve",
       "color": "Classique",
       "type": "Trèfle",
@@ -2087,7 +2087,7 @@
       "level": "190"
   },
   {
-      "id": "224262",
+      "id": 224262,
       "name": "Breuvage Musculaire",
       "color": "Rare",
       "type": "Trèfle",
@@ -2095,7 +2095,7 @@
       "level": "190"
   },
   {
-      "id": "224263",
+      "id": 224263,
       "name": "Potion Étoilée",
       "color": "Classique",
       "type": "Trèfle",
@@ -2103,7 +2103,7 @@
       "level": "200"
   },
   {
-      "id": "224264",
+      "id": 224264,
       "name": "Planche à Griller",
       "color": "Classique",
       "type": "Trèfle",
@@ -2111,7 +2111,7 @@
       "level": "40"
   },
   {
-      "id": "224265",
+      "id": 224265,
       "name": "Planche à Repasser",
       "color": "Classique",
       "type": "Trèfle",
@@ -2119,7 +2119,7 @@
       "level": "80"
   },
   {
-      "id": "224266",
+      "id": 224266,
       "name": "Planche hatoufer",
       "color": "Rare",
       "type": "Trèfle",
@@ -2127,7 +2127,7 @@
       "level": "100"
   },
   {
-      "id": "224267",
+      "id": 224267,
       "name": "Substrat de Fourré",
       "color": "Classique",
       "type": "Trèfle",
@@ -2135,7 +2135,7 @@
       "level": "120"
   },
   {
-      "id": "224268",
+      "id": 224268,
       "name": "Bois de Charme",
       "color": "Classique",
       "type": "Trèfle",
@@ -2143,7 +2143,7 @@
       "level": "160"
   },
   {
-      "id": "224269",
+      "id": 224269,
       "name": "Substrat de Forêt primaire",
       "color": "Classique",
       "type": "Trèfle",
@@ -2151,7 +2151,7 @@
       "level": "160"
   },
   {
-      "id": "224270",
+      "id": 224270,
       "name": "Substrat de Forêt vierge",
       "color": "Classique",
       "type": "Trèfle",
@@ -2159,7 +2159,7 @@
       "level": "180"
   },
   {
-      "id": "224271",
+      "id": 224271,
       "name": "Beignet Astrubien Fortifiant",
       "color": "Classique",
       "type": "Trèfle",
@@ -2167,7 +2167,7 @@
       "level": "20"
   },
   {
-      "id": "224272",
+      "id": 224272,
       "name": "Roulade de Carne",
       "color": "Classique",
       "type": "Trèfle",
@@ -2175,7 +2175,7 @@
       "level": "30"
   },
   {
-      "id": "224273",
+      "id": 224273,
       "name": "Terrine Bontarienne",
       "color": "Classique",
       "type": "Trèfle",
@@ -2183,7 +2183,7 @@
       "level": "80"
   },
   {
-      "id": "224274",
+      "id": 224274,
       "name": "Pot-au-feu Goûteux Fortifiant",
       "color": "Classique",
       "type": "Trèfle",
@@ -2191,7 +2191,7 @@
       "level": "90"
   },
   {
-      "id": "224275",
+      "id": 224275,
       "name": "Salade Houbée",
       "color": "Rare",
       "type": "Trèfle",
@@ -2199,7 +2199,7 @@
       "level": "158"
   },
   {
-      "id": "224276",
+      "id": 224276,
       "name": "Filet Mignon",
       "color": "Classique",
       "type": "Trèfle",
@@ -2207,7 +2207,7 @@
       "level": "170"
   },
   {
-      "id": "224277",
+      "id": 224277,
       "name": "Filet Mignon Fortifiant",
       "color": "Classique",
       "type": "Trèfle",
@@ -2215,7 +2215,7 @@
       "level": "170"
   },
   {
-      "id": "224278",
+      "id": 224278,
       "name": "Ebonite",
       "color": "Classique",
       "type": "Trèfle",
@@ -2223,7 +2223,7 @@
       "level": "40"
   },
   {
-      "id": "224279",
+      "id": 224279,
       "name": "Diamant",
       "color": "Classique",
       "type": "Trèfle",
@@ -2231,7 +2231,7 @@
       "level": "50"
   },
   {
-      "id": "224280",
+      "id": 224280,
       "name": "Agathe",
       "color": "Classique",
       "type": "Trèfle",
@@ -2239,7 +2239,7 @@
       "level": "150"
   },
   {
-      "id": "224281",
+      "id": 224281,
       "name": "Ardonite",
       "color": "Classique",
       "type": "Trèfle",
@@ -2247,7 +2247,7 @@
       "level": "200"
   },
   {
-      "id": "224282",
+      "id": 224282,
       "name": "Multygely",
       "color": "Classique",
       "type": "Trèfle",
@@ -2255,7 +2255,7 @@
       "level": "60"
   },
   {
-      "id": "224283",
+      "id": 224283,
       "name": "Borodinski",
       "color": "Classique",
       "type": "Trèfle",
@@ -2263,7 +2263,7 @@
       "level": "130"
   },
   {
-      "id": "224284",
+      "id": 224284,
       "name": "Pain Trépide",
       "color": "Classique",
       "type": "Trèfle",
@@ -2271,7 +2271,7 @@
       "level": "140"
   },
   {
-      "id": "224285",
+      "id": 224285,
       "name": "Huile de Pichon",
       "color": "Classique",
       "type": "Trèfle",
@@ -2279,7 +2279,7 @@
       "level": "140"
   },
   {
-      "id": "224286",
+      "id": 224286,
       "name": "Brioche Dorée",
       "color": "Classique",
       "type": "Trèfle",
@@ -2287,7 +2287,7 @@
       "level": "190"
   },
   {
-      "id": "224287",
+      "id": 224287,
       "name": "Poisson-Chatton Fumé",
       "color": "Classique",
       "type": "Trèfle",
@@ -2295,7 +2295,7 @@
       "level": "40"
   },
   {
-      "id": "224288",
+      "id": 224288,
       "name": "Brochet Tupe-Halett Farci",
       "color": "Classique",
       "type": "Trèfle",
@@ -2303,7 +2303,7 @@
       "level": "80"
   },
   {
-      "id": "224289",
+      "id": 224289,
       "name": "Jus de poisson asphyxiant",
       "color": "Classique",
       "type": "Trèfle",
@@ -2311,7 +2311,7 @@
       "level": "130"
   },
   {
-      "id": "224290",
+      "id": 224290,
       "name": "Tanche en Matelote",
       "color": "Classique",
       "type": "Trèfle",
@@ -2319,7 +2319,7 @@
       "level": "180"
   },
   {
-      "id": "224291",
+      "id": 224291,
       "name": "Jus de poisson méphitique",
       "color": "Classique",
       "type": "Trèfle",
@@ -2327,7 +2327,7 @@
       "level": "200"
   },
   {
-      "id": "224292",
+      "id": 224292,
       "name": "Abramu",
       "color": "Classique",
       "type": "Trèfle",
@@ -2335,7 +2335,7 @@
       "level": "46"
   },
   {
-      "id": "224293",
+      "id": 224293,
       "name": "Anneau Nime",
       "color": "Classique",
       "type": "Trèfle",
@@ -2343,7 +2343,7 @@
       "level": "67"
   },
   {
-      "id": "224294",
+      "id": 224294,
       "name": "Amulette de Moon",
       "color": "Classique",
       "type": "Trèfle",
@@ -2351,7 +2351,7 @@
       "level": "102"
   },
   {
-      "id": "224295",
+      "id": 224295,
       "name": "Anneau Hell",
       "color": "Classique",
       "type": "Trèfle",
@@ -2359,7 +2359,7 @@
       "level": "150"
   },
   {
-      "id": "224296",
+      "id": 224296,
       "name": "Clef de la Grotte Hesque",
       "color": "Classique",
       "type": "Trèfle",
@@ -2367,7 +2367,7 @@
       "level": "50"
   },
   {
-      "id": "224297",
+      "id": 224297,
       "name": "Clef du Labyrinthe du Minotoror",
       "color": "Classique",
       "type": "Trèfle",
@@ -2375,7 +2375,7 @@
       "level": "120"
   },
   {
-      "id": "224298",
+      "id": 224298,
       "name": "Clef de l'Antre de Crocabulia",
       "color": "Classique",
       "type": "Trèfle",
@@ -2383,7 +2383,7 @@
       "level": "120"
   },
   {
-      "id": "224299",
+      "id": 224299,
       "name": "Clef du Ring du Capitaine Ekarlatte",
       "color": "Classique",
       "type": "Trèfle",
@@ -2391,7 +2391,7 @@
       "level": "130"
   },
   {
-      "id": "224300",
+      "id": 224300,
       "name": "Clef de la Galerie du Phossile",
       "color": "Classique",
       "type": "Trèfle",
@@ -2399,7 +2399,7 @@
       "level": "150"
   },
   {
-      "id": "224301",
+      "id": 224301,
       "name": "Clef du Grolandais violent",
       "color": "Classique",
       "type": "Trèfle",
@@ -2407,7 +2407,7 @@
       "level": "150"
   },
   {
-      "id": "224302",
+      "id": 224302,
       "name": "Clef du Temple du Grand Ougah",
       "color": "Classique",
       "type": "Trèfle",
@@ -2415,7 +2415,7 @@
       "level": "180"
   },
   {
-      "id": "224303",
+      "id": 224303,
       "name": "Clef de la Cave du Toxoliath",
       "color": "Classique",
       "type": "Trèfle",
@@ -2423,7 +2423,7 @@
       "level": "180"
   },
   {
-      "id": "224304",
+      "id": 224304,
       "name": "Bottes du Boufcoul",
       "color": "Classique",
       "type": "Trèfle",
@@ -2431,7 +2431,7 @@
       "level": "38"
   },
   {
-      "id": "224305",
+      "id": 224305,
       "name": "Bottes du Berserkoffre",
       "color": "Classique",
       "type": "Trèfle",
@@ -2439,7 +2439,7 @@
       "level": "102"
   },
   {
-      "id": "224306",
+      "id": 224306,
       "name": "Bottes Nécrotiques",
       "color": "Rare",
       "type": "Trèfle",
@@ -2447,7 +2447,7 @@
       "level": "178"
   },
   {
-      "id": "224307",
+      "id": 224307,
       "name": "Grésilobottes",
       "color": "Rare",
       "type": "Trèfle",
@@ -2455,7 +2455,7 @@
       "level": "190"
   },
   {
-      "id": "224308",
+      "id": 224308,
       "name": "Domo mineure",
       "color": "Classique",
       "type": "Trèfle",
@@ -2463,7 +2463,7 @@
       "level": "17"
   },
   {
-      "id": "224309",
+      "id": 224309,
       "name": "Bihilète",
       "color": "Classique",
       "type": "Trèfle",
@@ -2471,7 +2471,7 @@
       "level": "44"
   },
   {
-      "id": "224310",
+      "id": 224310,
       "name": "Bouclier en Slip",
       "color": "Classique",
       "type": "Trèfle",
@@ -2479,7 +2479,7 @@
       "level": "120"
   },
   {
-      "id": "224311",
+      "id": 224311,
       "name": "Cafra majeure",
       "color": "Classique",
       "type": "Trèfle",
@@ -2487,7 +2487,7 @@
       "level": "148"
   },
   {
-      "id": "224312",
+      "id": 224312,
       "name": "Bouclier Taverne",
       "color": "Rare",
       "type": "Trèfle",
@@ -2495,7 +2495,7 @@
       "level": "155"
   },
   {
-      "id": "224313",
+      "id": 224313,
       "name": "Pelle Melle",
       "color": "Classique",
       "type": "Trèfle",
@@ -2503,7 +2503,7 @@
       "level": "50"
   },
   {
-      "id": "224314",
+      "id": 224314,
       "name": "Hache à Lamelles",
       "color": "Classique",
       "type": "Trèfle",
@@ -2511,7 +2511,7 @@
       "level": "157"
   },
   {
-      "id": "224315",
+      "id": 224315,
       "name": "Hache du Korriandre",
       "color": "Rare",
       "type": "Trèfle",
@@ -2519,7 +2519,7 @@
       "level": "188"
   },
   {
-      "id": "224316",
+      "id": 224316,
       "name": "Baguette de Glace",
       "color": "Classique",
       "type": "Trèfle",
@@ -2527,7 +2527,7 @@
       "level": "11"
   },
   {
-      "id": "224317",
+      "id": 224317,
       "name": "X",
       "color": "Classique",
       "type": "Trèfle",
@@ -2535,7 +2535,7 @@
       "level": "1"
   },
   {
-      "id": "224318",
+      "id": 224318,
       "name": "Arc Ange",
       "color": "Classique",
       "type": "Trèfle",
@@ -2543,7 +2543,7 @@
       "level": "82"
   },
   {
-      "id": "224319",
+      "id": 224319,
       "name": "Baguette Hernuement",
       "color": "Rare",
       "type": "Trèfle",
@@ -2551,7 +2551,7 @@
       "level": "163"
   },
   {
-      "id": "224320",
+      "id": 224320,
       "name": "Bâton des Prophètes",
       "color": "Classique",
       "type": "Trèfle",
@@ -2559,7 +2559,7 @@
       "level": "169"
   },
   {
-      "id": "224321",
+      "id": 224321,
       "name": "Rod Gerse",
       "color": "Classique",
       "type": "Trèfle",
@@ -2567,7 +2567,7 @@
       "level": "176"
   },
   {
-      "id": "224322",
+      "id": 224322,
       "name": "Moskitogalurette",
       "color": "Classique",
       "type": "Trèfle",
@@ -2575,7 +2575,7 @@
       "level": "15"
   },
   {
-      "id": "224323",
+      "id": 224323,
       "name": "Billréole",
       "color": "Classique",
       "type": "Trèfle",
@@ -2583,7 +2583,7 @@
       "level": "100"
   },
   {
-      "id": "224324",
+      "id": 224324,
       "name": "Coiffe de Fraktale",
       "color": "Classique",
       "type": "Trèfle",
@@ -2591,7 +2591,7 @@
       "level": "124"
   },
   {
-      "id": "224325",
+      "id": 224325,
       "name": "Chapeau du Comte Razof",
       "color": "Classique",
       "type": "Trèfle",
@@ -2599,7 +2599,7 @@
       "level": "197"
   },
   {
-      "id": "224326",
+      "id": 224326,
       "name": "Blops",
       "color": "Classique",
       "type": "Trèfle",
@@ -2607,7 +2607,7 @@
       "level": "60"
   },
   {
-      "id": "224327",
+      "id": 224327,
       "name": "Bworks de Cania",
       "color": "Classique",
       "type": "Trèfle",
@@ -2615,7 +2615,7 @@
       "level": "90"
   },
   {
-      "id": "224328",
+      "id": 224328,
       "name": "Corbacs",
       "color": "Classique",
       "type": "Trèfle",
@@ -2623,7 +2623,7 @@
       "level": "110"
   },
   {
-      "id": "224329",
+      "id": 224329,
       "name": "Boufmouths",
       "color": "Classique",
       "type": "Trèfle",
@@ -2631,7 +2631,7 @@
       "level": "120"
   },
   {
-      "id": "224330",
+      "id": 224330,
       "name": "Brûlâmes",
       "color": "Classique",
       "type": "Trèfle",
@@ -2639,7 +2639,7 @@
       "level": "190"
   },
   {
-      "id": "224331",
+      "id": 224331,
       "name": "Cuirassés",
       "color": "Classique",
       "type": "Trèfle",
@@ -2647,7 +2647,7 @@
       "level": "190"
   },
   {
-      "id": "224332",
+      "id": 224332,
       "name": "Forêt pétrifiée",
       "color": "Classique",
       "type": "Trèfle",
@@ -2655,7 +2655,7 @@
       "level": "180"
   },
   {
-      "id": "224333",
+      "id": 224333,
       "name": "Sinistros",
       "color": "Rare",
       "type": "Trèfle",
@@ -2663,7 +2663,7 @@
       "level": "190"
   },
   {
-      "id": "224334",
+      "id": 224334,
       "name": "Abraknyde",
       "color": "Classique",
       "type": "Trèfle",
@@ -2671,7 +2671,7 @@
       "level": "1"
   },
   {
-      "id": "224335",
+      "id": 224335,
       "name": "Gelées",
       "color": "Classique",
       "type": "Trèfle",
@@ -2679,7 +2679,7 @@
       "level": "50"
   },
   {
-      "id": "224336",
+      "id": 224336,
       "name": "Bworks",
       "color": "Classique",
       "type": "Trèfle",
@@ -2687,7 +2687,7 @@
       "level": "50"
   },
   {
-      "id": "224337",
+      "id": 224337,
       "name": "Miséreux",
       "color": "Classique",
       "type": "Trèfle",
@@ -2695,7 +2695,7 @@
       "level": "190"
   },
   {
-      "id": "224338",
+      "id": 224338,
       "name": "Monstres de la plage de Moon",
       "color": "Classique",
       "type": "Trèfle",
@@ -2703,7 +2703,7 @@
       "level": "50"
   },
   {
-      "id": "224339",
+      "id": 224339,
       "name": "Wabbits mutants",
       "color": "Classique",
       "type": "Trèfle",
@@ -2711,7 +2711,7 @@
       "level": "120"
   },
   {
-      "id": "224340",
+      "id": 224340,
       "name": "Tourbières",
       "color": "Rare",
       "type": "Trèfle",
@@ -2719,7 +2719,7 @@
       "level": "110"
   },
   {
-      "id": "224341",
+      "id": 224341,
       "name": "Kwapa",
       "color": "Rare",
       "type": "Trèfle",
@@ -2727,7 +2727,7 @@
       "level": "130"
   },
   {
-      "id": "224342",
+      "id": 224342,
       "name": "Animaux du désert",
       "color": "Rare",
       "type": "Trèfle",
@@ -2735,7 +2735,7 @@
       "level": "80"
   },
   {
-      "id": "224343",
+      "id": 224343,
       "name": "Vers des sables",
       "color": "Classique",
       "type": "Trèfle",
@@ -2743,7 +2743,7 @@
       "level": "170"
   },
   {
-      "id": "224344",
+      "id": 224344,
       "name": "Cour sombre",
       "color": "Classique",
       "type": "Trèfle",
@@ -2751,7 +2751,7 @@
       "level": "190"
   },
   {
-      "id": "224345",
+      "id": 224345,
       "name": "Enutrofors",
       "color": "Classique",
       "type": "Trèfle",
@@ -2759,7 +2759,7 @@
       "level": "190"
   },
   {
-      "id": "224346",
+      "id": 224346,
       "name": "Malveilleurs",
       "color": "Classique",
       "type": "Trèfle",
@@ -2767,7 +2767,7 @@
       "level": "130"
   },
   {
-      "id": "224347",
+      "id": 224347,
       "name": "Matougarous",
       "color": "Classique",
       "type": "Trèfle",
@@ -2775,7 +2775,7 @@
       "level": "160"
   },
   {
-      "id": "224348",
+      "id": 224348,
       "name": "Serviteurs de Dramak",
       "color": "Classique",
       "type": "Trèfle",
@@ -2783,7 +2783,7 @@
       "level": "100"
   },
   {
-      "id": "224349",
+      "id": 224349,
       "name": "Goules",
       "color": "Classique",
       "type": "Trèfle",
@@ -2791,7 +2791,7 @@
       "level": "190"
   },
   {
-      "id": "224350",
+      "id": 224350,
       "name": "Magik Riktus",
       "color": "Classique",
       "type": "Trèfle",
@@ -2799,7 +2799,7 @@
       "level": "90"
   },
   {
-      "id": "224351",
+      "id": 224351,
       "name": "Sidimonstres",
       "color": "Classique",
       "type": "Trèfle",
@@ -2807,7 +2807,7 @@
       "level": "70"
   },
   {
-      "id": "224352",
+      "id": 224352,
       "name": "Rats strubiens",
       "color": "Classique",
       "type": "Trèfle",
@@ -2815,7 +2815,7 @@
       "level": "30"
   },
   {
-      "id": "224353",
+      "id": 224353,
       "name": "Rats",
       "color": "Classique",
       "type": "Trèfle",
@@ -2823,7 +2823,7 @@
       "level": "80"
   },
   {
-      "id": "224354",
+      "id": 224354,
       "name": "Rats",
       "color": "Classique",
       "type": "Trèfle",
@@ -2831,7 +2831,7 @@
       "level": "80"
   },
   {
-      "id": "224355",
+      "id": 224355,
       "name": "Vilinsekts",
       "color": "Classique",
       "type": "Trèfle",
@@ -2839,7 +2839,7 @@
       "level": "40"
   },
   {
-      "id": "224356",
+      "id": 224356,
       "name": "Koalaks mortels",
       "color": "Classique",
       "type": "Trèfle",
@@ -2847,7 +2847,7 @@
       "level": "100"
   },
   {
-      "id": "224357",
+      "id": 224357,
       "name": "Nileza",
       "color": "Classique",
       "type": "Trèfle",
@@ -2855,7 +2855,7 @@
       "level": "190"
   },
   {
-      "id": "224358",
+      "id": 224358,
       "name": "Royalmouth",
       "color": "Classique",
       "type": "Trèfle",
@@ -2863,7 +2863,7 @@
       "level": "120"
   },
   {
-      "id": "224359",
+      "id": 224359,
       "name": "Dazak Martegel",
       "color": "Classique",
       "type": "Trèfle",
@@ -2871,7 +2871,7 @@
       "level": "190"
   },
   {
-      "id": "224360",
+      "id": 224360,
       "name": "Glourséleste",
       "color": "Rare",
       "type": "Trèfle",
@@ -2879,7 +2879,7 @@
       "level": "190"
   },
   {
-      "id": "224361",
+      "id": 224361,
       "name": "Mansot Royal",
       "color": "Rare",
       "type": "Trèfle",
@@ -2887,7 +2887,7 @@
       "level": "140"
   },
   {
-      "id": "224362",
+      "id": 224362,
       "name": "Bethel Arkana",
       "color": "Classique",
       "type": "Trèfle",
@@ -2895,7 +2895,7 @@
       "level": "190"
   },
   {
-      "id": "224363",
+      "id": 224363,
       "name": "Draegnerys",
       "color": "Classique",
       "type": "Trèfle",
@@ -2903,7 +2903,7 @@
       "level": "70"
   },
   {
-      "id": "224364",
+      "id": 224364,
       "name": "Gelée Royale Fraise",
       "color": "Rare",
       "type": "Trèfle",
@@ -2911,7 +2911,7 @@
       "level": "60"
   },
   {
-      "id": "224365",
+      "id": 224365,
       "name": "Bworker",
       "color": "Classique",
       "type": "Trèfle",
@@ -2919,7 +2919,7 @@
       "level": "180"
   },
   {
-      "id": "224366",
+      "id": 224366,
       "name": "Kwakwa",
       "color": "Classique",
       "type": "Trèfle",
@@ -2927,7 +2927,7 @@
       "level": "50"
   },
   {
-      "id": "224367",
+      "id": 224367,
       "name": "Chafer Rōnin",
       "color": "Classique",
       "type": "Trèfle",
@@ -2935,7 +2935,7 @@
       "level": "40"
   },
   {
-      "id": "224368",
+      "id": 224368,
       "name": "Guerre",
       "color": "Classique",
       "type": "Trèfle",
@@ -2943,7 +2943,7 @@
       "level": "190"
   },
   {
-      "id": "224369",
+      "id": 224369,
       "name": "Moon",
       "color": "Rare",
       "type": "Trèfle",
@@ -2951,7 +2951,7 @@
       "level": "100"
   },
   {
-      "id": "224370",
+      "id": 224370,
       "name": "Chouque",
       "color": "Classique",
       "type": "Trèfle",
@@ -2959,7 +2959,7 @@
       "level": "90"
   },
   {
-      "id": "224371",
+      "id": 224371,
       "name": "Corailleur Magistral",
       "color": "Classique",
       "type": "Trèfle",
@@ -2967,7 +2967,7 @@
       "level": "50"
   },
   {
-      "id": "224372",
+      "id": 224372,
       "name": "Kralamour Géant",
       "color": "Classique",
       "type": "Trèfle",
@@ -2975,7 +2975,7 @@
       "level": "180"
   },
   {
-      "id": "224373",
+      "id": 224373,
       "name": "Mantiscore",
       "color": "Classique",
       "type": "Trèfle",
@@ -2983,7 +2983,7 @@
       "level": "80"
   },
   {
-      "id": "224374",
+      "id": 224374,
       "name": "El Piko",
       "color": "Classique",
       "type": "Trèfle",
@@ -2991,7 +2991,7 @@
       "level": "130"
   },
   {
-      "id": "224375",
+      "id": 224375,
       "name": "Père Ver",
       "color": "Classique",
       "type": "Trèfle",
@@ -2999,7 +2999,7 @@
       "level": "170"
   },
   {
-      "id": "224376",
+      "id": 224376,
       "name": "Roi Nidas",
       "color": "Classique",
       "type": "Trèfle",
@@ -3007,7 +3007,7 @@
       "level": "190"
   },
   {
-      "id": "224377",
+      "id": 224377,
       "name": "Chaloeil",
       "color": "Classique",
       "type": "Trèfle",
@@ -3015,7 +3015,7 @@
       "level": "190"
   },
   {
-      "id": "224378",
+      "id": 224378,
       "name": "Malléfisk",
       "color": "Classique",
       "type": "Trèfle",
@@ -3023,7 +3023,7 @@
       "level": "100"
   },
   {
-      "id": "224379",
+      "id": 224379,
       "name": "Ush Galesh",
       "color": "Classique",
       "type": "Trèfle",
@@ -3031,7 +3031,7 @@
       "level": "160"
   },
   {
-      "id": "224380",
+      "id": 224380,
       "name": "Choudini",
       "color": "Classique",
       "type": "Trèfle",
@@ -3039,7 +3039,7 @@
       "level": "90"
   },
   {
-      "id": "224381",
+      "id": 224381,
       "name": "Larve de Koutoulou",
       "color": "Classique",
       "type": "Trèfle",
@@ -3047,7 +3047,7 @@
       "level": "190"
   },
   {
-      "id": "224382",
+      "id": 224382,
       "name": "Rat Noir",
       "color": "Classique",
       "type": "Trèfle",
@@ -3055,7 +3055,7 @@
       "level": "110"
   },
   {
-      "id": "224383",
+      "id": 224383,
       "name": "Skeunk",
       "color": "Classique",
       "type": "Trèfle",
@@ -3063,7 +3063,7 @@
       "level": "120"
   },
   {
-      "id": "224384",
+      "id": 224384,
       "name": "Fuji Givrefoux",
       "color": "Classique",
       "type": "Trèfle",
@@ -3071,7 +3071,7 @@
       "level": "190"
   },
   {
-      "id": "224385",
+      "id": 224385,
       "name": "Potion de secousse",
       "color": "Classique",
       "type": "Bonus",
@@ -3079,7 +3079,7 @@
       "level": "20"
   },
   {
-      "id": "224386",
+      "id": 224386,
       "name": "Potion de Souvenir",
       "color": "Rare",
       "type": "Bonus",
@@ -3087,7 +3087,7 @@
       "level": "30"
   },
   {
-      "id": "224387",
+      "id": 224387,
       "name": "Potion d'Apisaphé",
       "color": "Rare",
       "type": "Bonus",
@@ -3095,7 +3095,7 @@
       "level": "115"
   },
   {
-      "id": "224388",
+      "id": 224388,
       "name": "Potion Bulbique",
       "color": "Classique",
       "type": "Bonus",
@@ -3103,7 +3103,7 @@
       "level": "140"
   },
   {
-      "id": "224389",
+      "id": 224389,
       "name": "Potion de Goku",
       "color": "Classique",
       "type": "Bonus",
@@ -3111,7 +3111,7 @@
       "level": "140"
   },
   {
-      "id": "224390",
+      "id": 224390,
       "name": "Élixir des Trépasseurs",
       "color": "Classique",
       "type": "Bonus",
@@ -3119,7 +3119,7 @@
       "level": "140"
   },
   {
-      "id": "224391",
+      "id": 224391,
       "name": "Potion Raide Izdaide",
       "color": "Classique",
       "type": "Bonus",
@@ -3127,7 +3127,7 @@
       "level": "150"
   },
   {
-      "id": "224392",
+      "id": 224392,
       "name": "Fiole de Chichala",
       "color": "Classique",
       "type": "Bonus",
@@ -3135,7 +3135,7 @@
       "level": "185"
   },
   {
-      "id": "224393",
+      "id": 224393,
       "name": "Bois de Frêne",
       "color": "Classique",
       "type": "Bonus",
@@ -3143,7 +3143,7 @@
       "level": "1"
   },
   {
-      "id": "224394",
+      "id": 224394,
       "name": "Bois d'Oliviolet",
       "color": "Rare",
       "type": "Bonus",
@@ -3151,7 +3151,7 @@
       "level": "90"
   },
   {
-      "id": "224395",
+      "id": 224395,
       "name": "Planche de Toilette",
       "color": "Classique",
       "type": "Bonus",
@@ -3159,7 +3159,7 @@
       "level": "100"
   },
   {
-      "id": "224396",
+      "id": 224396,
       "name": "Bois de Merisier",
       "color": "Classique",
       "type": "Bonus",
@@ -3167,7 +3167,7 @@
       "level": "120"
   },
   {
-      "id": "224397",
+      "id": 224397,
       "name": "Bois de Noisetier",
       "color": "Classique",
       "type": "Bonus",
@@ -3175,7 +3175,7 @@
       "level": "130"
   },
   {
-      "id": "224398",
+      "id": 224398,
       "name": "Planche à Dessin",
       "color": "Rare",
       "type": "Bonus",
@@ -3183,7 +3183,7 @@
       "level": "180"
   },
   {
-      "id": "224399",
+      "id": 224399,
       "name": "Bouillon de Chair",
       "color": "Classique",
       "type": "Bonus",
@@ -3191,7 +3191,7 @@
       "level": "1"
   },
   {
-      "id": "224400",
+      "id": 224400,
       "name": "Boulette de Viande",
       "color": "Classique",
       "type": "Bonus",
@@ -3199,7 +3199,7 @@
       "level": "10"
   },
   {
-      "id": "224401",
+      "id": 224401,
       "name": "Salade Sufokienne Fortifiante",
       "color": "Classique",
       "type": "Bonus",
@@ -3207,7 +3207,7 @@
       "level": "50"
   },
   {
-      "id": "224402",
+      "id": 224402,
       "name": "Friture Amaknéenne",
       "color": "Classique",
       "type": "Bonus",
@@ -3215,7 +3215,7 @@
       "level": "60"
   },
   {
-      "id": "224403",
+      "id": 224403,
       "name": "Pemmican aux Haricots",
       "color": "Rare",
       "type": "Bonus",
@@ -3223,7 +3223,7 @@
       "level": "110"
   },
   {
-      "id": "224404",
+      "id": 224404,
       "name": "Mijoté Récréatif",
       "color": "Classique",
       "type": "Bonus",
@@ -3231,7 +3231,7 @@
       "level": "160"
   },
   {
-      "id": "224405",
+      "id": 224405,
       "name": "Aluminite",
       "color": "Classique",
       "type": "Bonus",
@@ -3239,7 +3239,7 @@
       "level": "20"
   },
   {
-      "id": "224406",
+      "id": 224406,
       "name": "Magnésite",
       "color": "Rare",
       "type": "Bonus",
@@ -3247,7 +3247,7 @@
       "level": "60"
   },
   {
-      "id": "224407",
+      "id": 224407,
       "name": "Orbe régénérant mineur",
       "color": "Classique",
       "type": "Bonus",
@@ -3255,7 +3255,7 @@
       "level": "60"
   },
   {
-      "id": "224408",
+      "id": 224408,
       "name": "Kouartz",
       "color": "Rare",
       "type": "Bonus",
@@ -3263,7 +3263,7 @@
       "level": "100"
   },
   {
-      "id": "224409",
+      "id": 224409,
       "name": "Plaque d'acier",
       "color": "Classique",
       "type": "Bonus",
@@ -3271,7 +3271,7 @@
       "level": "100"
   },
   {
-      "id": "224410",
+      "id": 224410,
       "name": "Guildalogemme",
       "color": "Classique",
       "type": "Bonus",
@@ -3279,7 +3279,7 @@
       "level": "120"
   },
   {
-      "id": "224411",
+      "id": 224411,
       "name": "Kriptonite",
       "color": "Rare",
       "type": "Bonus",
@@ -3287,7 +3287,7 @@
       "level": "120"
   },
   {
-      "id": "224412",
+      "id": 224412,
       "name": "Aigue-Marine",
       "color": "Rare",
       "type": "Bonus",
@@ -3295,7 +3295,7 @@
       "level": "150"
   },
   {
-      "id": "224413",
+      "id": 224413,
       "name": "Huile de Tournesol Sauvage",
       "color": "Classique",
       "type": "Bonus",
@@ -3303,7 +3303,7 @@
       "level": "12"
   },
   {
-      "id": "224414",
+      "id": 224414,
       "name": "Fougasse",
       "color": "Rare",
       "type": "Bonus",
@@ -3311,7 +3311,7 @@
       "level": "30"
   },
   {
-      "id": "224415",
+      "id": 224415,
       "name": "Pain aux Flocons d'Avoine",
       "color": "Classique",
       "type": "Bonus",
@@ -3319,7 +3319,7 @@
       "level": "40"
   },
   {
-      "id": "224416",
+      "id": 224416,
       "name": "Briochette",
       "color": "Classique",
       "type": "Bonus",
@@ -3327,7 +3327,7 @@
       "level": "60"
   },
   {
-      "id": "224417",
+      "id": 224417,
       "name": "Pain consistant",
       "color": "Classique",
       "type": "Bonus",
@@ -3335,7 +3335,7 @@
       "level": "70"
   },
   {
-      "id": "224418",
+      "id": 224418,
       "name": "Tortilla",
       "color": "Classique",
       "type": "Bonus",
@@ -3343,7 +3343,7 @@
       "level": "160"
   },
   {
-      "id": "224419",
+      "id": 224419,
       "name": "Burrito",
       "color": "Rare",
       "type": "Bonus",
@@ -3351,7 +3351,7 @@
       "level": "160"
   },
   {
-      "id": "224420",
+      "id": 224420,
       "name": "Pain des Champs",
       "color": "Classique",
       "type": "Bonus",
@@ -3359,7 +3359,7 @@
       "level": "170"
   },
   {
-      "id": "224421",
+      "id": 224421,
       "name": "Goujon en Tranche",
       "color": "Classique",
       "type": "Bonus",
@@ -3367,7 +3367,7 @@
       "level": "1"
   },
   {
-      "id": "224422",
+      "id": 224422,
       "name": "Goujon Kiye en Tranche",
       "color": "Rare",
       "type": "Bonus",
@@ -3375,7 +3375,7 @@
       "level": "10"
   },
   {
-      "id": "224423",
+      "id": 224423,
       "name": "Truite Flambée",
       "color": "Classique",
       "type": "Bonus",
@@ -3383,7 +3383,7 @@
       "level": "20"
   },
   {
-      "id": "224424",
+      "id": 224424,
       "name": "Poisson Pané Frit",
       "color": "Classique",
       "type": "Bonus",
@@ -3391,7 +3391,7 @@
       "level": "50"
   },
   {
-      "id": "224425",
+      "id": 224425,
       "name": "Poisson Igloo Frit",
       "color": "Rare",
       "type": "Bonus",
@@ -3399,7 +3399,7 @@
       "level": "50"
   },
   {
-      "id": "224426",
+      "id": 224426,
       "name": "Anneau Rexik",
       "color": "Classique",
       "type": "Bonus",
@@ -3407,7 +3407,7 @@
       "level": "1"
   },
   {
-      "id": "224427",
+      "id": 224427,
       "name": "Gantie Royal",
       "color": "Classique",
       "type": "Bonus",
@@ -3415,7 +3415,7 @@
       "level": "6"
   },
   {
-      "id": "224428",
+      "id": 224428,
       "name": "Bracelet du Glutin",
       "color": "Classique",
       "type": "Bonus",
@@ -3423,7 +3423,7 @@
       "level": "25"
   },
   {
-      "id": "224429",
+      "id": 224429,
       "name": "X",
       "color": "Classique",
       "type": "Bonus",
@@ -3431,7 +3431,7 @@
       "level": "1"
   },
   {
-      "id": "224430",
+      "id": 224430,
       "name": "Amulette du Mineur Sombre",
       "color": "Classique",
       "type": "Bonus",
@@ -3439,7 +3439,7 @@
       "level": "39"
   },
   {
-      "id": "224431",
+      "id": 224431,
       "name": "La Doubitch O'Boul",
       "color": "Classique",
       "type": "Bonus",
@@ -3447,7 +3447,7 @@
       "level": "77"
   },
   {
-      "id": "224432",
+      "id": 224432,
       "name": "Anneau du Mineur Gogorifiant",
       "color": "Classique",
       "type": "Bonus",
@@ -3455,7 +3455,7 @@
       "level": "84"
   },
   {
-      "id": "224433",
+      "id": 224433,
       "name": "Collier des Ecaflipuces",
       "color": "Classique",
       "type": "Bonus",
@@ -3463,7 +3463,7 @@
       "level": "114"
   },
   {
-      "id": "224434",
+      "id": 224434,
       "name": "Bague Moutheuze",
       "color": "Classique",
       "type": "Bonus",
@@ -3471,7 +3471,7 @@
       "level": "121"
   },
   {
-      "id": "224435",
+      "id": 224435,
       "name": "Morceau de clef Indigo",
       "color": "Classique",
       "type": "Bonus",
@@ -3479,7 +3479,7 @@
       "level": "80"
   },
   {
-      "id": "224436",
+      "id": 224436,
       "name": "Clef des Champs",
       "color": "Classique",
       "type": "Bonus",
@@ -3487,7 +3487,7 @@
       "level": "10"
   },
   {
-      "id": "224437",
+      "id": 224437,
       "name": "Clef de la Cour du Bouftou Royal",
       "color": "Classique",
       "type": "Bonus",
@@ -3495,7 +3495,7 @@
       "level": "30"
   },
   {
-      "id": "224438",
+      "id": 224438,
       "name": "Clef du Clos des Blops",
       "color": "Classique",
       "type": "Bonus",
@@ -3503,7 +3503,7 @@
       "level": "60"
   },
   {
-      "id": "224439",
+      "id": 224439,
       "name": "Clef de l'Épreuve de Draegnerys",
       "color": "Classique",
       "type": "Bonus",
@@ -3511,7 +3511,7 @@
       "level": "70"
   },
   {
-      "id": "224440",
+      "id": 224440,
       "name": "Clef de la Bibliothèque du Maître Corbac",
       "color": "Classique",
       "type": "Bonus",
@@ -3519,7 +3519,7 @@
       "level": "110"
   },
   {
-      "id": "224441",
+      "id": 224441,
       "name": "Clef de la Clairière du Chêne Mou",
       "color": "Classique",
       "type": "Bonus",
@@ -3527,7 +3527,7 @@
       "level": "140"
   },
   {
-      "id": "224442",
+      "id": 224442,
       "name": "Bottes agilesques",
       "color": "Classique",
       "type": "Bonus",
@@ -3535,7 +3535,7 @@
       "level": "6"
   },
   {
-      "id": "224443",
+      "id": 224443,
       "name": "Sandales du Piou Vert",
       "color": "Classique",
       "type": "Bonus",
@@ -3543,7 +3543,7 @@
       "level": "11"
   },
   {
-      "id": "224444",
+      "id": 224444,
       "name": "Sanglature",
       "color": "Classique",
       "type": "Bonus",
@@ -3551,7 +3551,7 @@
       "level": "18"
   },
   {
-      "id": "224445",
+      "id": 224445,
       "name": "Ceinture du Molosse",
       "color": "Classique",
       "type": "Bonus",
@@ -3559,7 +3559,7 @@
       "level": "31"
   },
   {
-      "id": "224446",
+      "id": 224446,
       "name": "Slipapier",
       "color": "Classique",
       "type": "Bonus",
@@ -3567,7 +3567,7 @@
       "level": "61"
   },
   {
-      "id": "224447",
+      "id": 224447,
       "name": "Ceinture Dracochoune",
       "color": "Classique",
       "type": "Bonus",
@@ -3575,7 +3575,7 @@
       "level": "77"
   },
   {
-      "id": "224448",
+      "id": 224448,
       "name": "Ceinture du Minotoror",
       "color": "Classique",
       "type": "Bonus",
@@ -3583,7 +3583,7 @@
       "level": "109"
   },
   {
-      "id": "224449",
+      "id": 224449,
       "name": "Ceinture Abdominable",
       "color": "Rare",
       "type": "Bonus",
@@ -3591,7 +3591,7 @@
       "level": "114"
   },
   {
-      "id": "224450",
+      "id": 224450,
       "name": "Bottes du Wabbit Céphale",
       "color": "Rare",
       "type": "Bonus",
@@ -3599,7 +3599,7 @@
       "level": "119"
   },
   {
-      "id": "224451",
+      "id": 224451,
       "name": "Nageoiture",
       "color": "Classique",
       "type": "Bonus",
@@ -3607,7 +3607,7 @@
       "level": "144"
   },
   {
-      "id": "224452",
+      "id": 224452,
       "name": "Bouclier du Bûcheron",
       "color": "Classique",
       "type": "Bonus",
@@ -3615,7 +3615,7 @@
       "level": "1"
   },
   {
-      "id": "224453",
+      "id": 224453,
       "name": "Nyoro mineure",
       "color": "Classique",
       "type": "Bonus",
@@ -3623,7 +3623,7 @@
       "level": "6"
   },
   {
-      "id": "224454",
+      "id": 224454,
       "name": "Proxima",
       "color": "Classique",
       "type": "Bonus",
@@ -3631,7 +3631,7 @@
       "level": "30"
   },
   {
-      "id": "224455",
+      "id": 224455,
       "name": "Boble mineure",
       "color": "Classique",
       "type": "Bonus",
@@ -3639,7 +3639,7 @@
       "level": "48"
   },
   {
-      "id": "224456",
+      "id": 224456,
       "name": "Yoche",
       "color": "Classique",
       "type": "Bonus",
@@ -3647,7 +3647,7 @@
       "level": "55"
   },
   {
-      "id": "224457",
+      "id": 224457,
       "name": "Muta",
       "color": "Classique",
       "type": "Bonus",
@@ -3655,7 +3655,7 @@
       "level": "60"
   },
   {
-      "id": "224458",
+      "id": 224458,
       "name": "Pétunia majeure",
       "color": "Classique",
       "type": "Bonus",
@@ -3663,7 +3663,7 @@
       "level": "93"
   },
   {
-      "id": "224459",
+      "id": 224459,
       "name": "Kyoub majeure",
       "color": "Rare",
       "type": "Bonus",
@@ -3671,7 +3671,7 @@
       "level": "102"
   },
   {
-      "id": "224460",
+      "id": 224460,
       "name": "Bulbouclier",
       "color": "Classique",
       "type": "Bonus",
@@ -3679,7 +3679,7 @@
       "level": "110"
   },
   {
-      "id": "224461",
+      "id": 224461,
       "name": "Critus",
       "color": "Classique",
       "type": "Bonus",
@@ -3687,7 +3687,7 @@
       "level": "140"
   },
   {
-      "id": "224462",
+      "id": 224462,
       "name": "Cadran de Terre",
       "color": "Classique",
       "type": "Bonus",
@@ -3695,7 +3695,7 @@
       "level": "165"
   },
   {
-      "id": "224463",
+      "id": 224463,
       "name": "Cadran de Feu",
       "color": "Rare",
       "type": "Bonus",
@@ -3703,7 +3703,7 @@
       "level": "175"
   },
   {
-      "id": "224464",
+      "id": 224464,
       "name": "X",
       "color": "Classique",
       "type": "Bonus",
@@ -3711,7 +3711,7 @@
       "level": "1"
   },
   {
-      "id": "224465",
+      "id": 224465,
       "name": "X",
       "color": "Classique",
       "type": "Bonus",
@@ -3719,7 +3719,7 @@
       "level": "1"
   },
   {
-      "id": "224466",
+      "id": 224466,
       "name": "Dagues Eudin",
       "color": "Rare",
       "type": "Bonus",
@@ -3727,7 +3727,7 @@
       "level": "171"
   },
   {
-      "id": "224467",
+      "id": 224467,
       "name": "Pelle Dorado",
       "color": "Rare",
       "type": "Bonus",
@@ -3735,7 +3735,7 @@
       "level": "178"
   },
   {
-      "id": "224468",
+      "id": 224468,
       "name": "Baguette de Boisaille",
       "color": "Classique",
       "type": "Bonus",
@@ -3743,7 +3743,7 @@
       "level": "3"
   },
   {
-      "id": "224469",
+      "id": 224469,
       "name": "Bâton Spirituel",
       "color": "Classique",
       "type": "Bonus",
@@ -3751,7 +3751,7 @@
       "level": "16"
   },
   {
-      "id": "224470",
+      "id": 224470,
       "name": "Arc en Corne de Bouftou",
       "color": "Classique",
       "type": "Bonus",
@@ -3759,7 +3759,7 @@
       "level": "38"
   },
   {
-      "id": "224471",
+      "id": 224471,
       "name": "Sceptre du Kanniboul Ebil",
       "color": "Classique",
       "type": "Bonus",
@@ -3767,7 +3767,7 @@
       "level": "47"
   },
   {
-      "id": "224472",
+      "id": 224472,
       "name": "Arc de Boo",
       "color": "Classique",
       "type": "Bonus",
@@ -3775,7 +3775,7 @@
       "level": "52"
   },
   {
-      "id": "224473",
+      "id": 224473,
       "name": "Pieu Vampirique",
       "color": "Classique",
       "type": "Bonus",
@@ -3783,7 +3783,7 @@
       "level": "65"
   },
   {
-      "id": "224474",
+      "id": 224474,
       "name": "Arc du Roi des Borins",
       "color": "Rare",
       "type": "Bonus",
@@ -3791,7 +3791,7 @@
       "level": "72"
   },
   {
-      "id": "224475",
+      "id": 224475,
       "name": "Baguette Irréelle",
       "color": "Classique",
       "type": "Bonus",
@@ -3799,7 +3799,7 @@
       "level": "90"
   },
   {
-      "id": "224476",
+      "id": 224476,
       "name": "Canne de Mamie Bonbon",
       "color": "Classique",
       "type": "Bonus",
@@ -3807,7 +3807,7 @@
       "level": "98"
   },
   {
-      "id": "224477",
+      "id": 224477,
       "name": "Baguette du Grand Glucid",
       "color": "Classique",
       "type": "Bonus",
@@ -3815,7 +3815,7 @@
       "level": "134"
   },
   {
-      "id": "224478",
+      "id": 224478,
       "name": "Bâton du Chêne Mou",
       "color": "Classique",
       "type": "Bonus",
@@ -3823,7 +3823,7 @@
       "level": "140"
   },
   {
-      "id": "224479",
+      "id": 224479,
       "name": "Arc à Lamelles",
       "color": "Classique",
       "type": "Bonus",
@@ -3831,7 +3831,7 @@
       "level": "180"
   },
   {
-      "id": "224480",
+      "id": 224480,
       "name": "Baguette Hernelle",
       "color": "Classique",
       "type": "Bonus",
@@ -3839,7 +3839,7 @@
       "level": "187"
   },
   {
-      "id": "224481",
+      "id": 224481,
       "name": "Rouleau à Pâtisserie d'Aermyne",
       "color": "Classique",
       "type": "Bonus",
@@ -3847,7 +3847,7 @@
       "level": "194"
   },
   {
-      "id": "224482",
+      "id": 224482,
       "name": "Bandeau Pandawushu",
       "color": "Classique",
       "type": "Bonus",
@@ -3855,7 +3855,7 @@
       "level": "4"
   },
   {
-      "id": "224483",
+      "id": 224483,
       "name": "Cape de l'Aventurier",
       "color": "Classique",
       "type": "Bonus",
@@ -3863,7 +3863,7 @@
       "level": "9"
   },
   {
-      "id": "224484",
+      "id": 224484,
       "name": "Bob du Paysan",
       "color": "Classique",
       "type": "Bonus",
@@ -3871,7 +3871,7 @@
       "level": "19"
   },
   {
-      "id": "224485",
+      "id": 224485,
       "name": "Boufcoiffe Royale",
       "color": "Classique",
       "type": "Bonus",
@@ -3879,7 +3879,7 @@
       "level": "32"
   },
   {
-      "id": "224486",
+      "id": 224486,
       "name": "Cape du Boostache",
       "color": "Classique",
       "type": "Bonus",
@@ -3887,7 +3887,7 @@
       "level": "41"
   },
   {
-      "id": "224487",
+      "id": 224487,
       "name": "Caskoffre",
       "color": "Classique",
       "type": "Bonus",
@@ -3895,7 +3895,7 @@
       "level": "55"
   },
   {
-      "id": "224488",
+      "id": 224488,
       "name": "Cape du Mulou",
       "color": "Classique",
       "type": "Bonus",
@@ -3903,7 +3903,7 @@
       "level": "64"
   },
   {
-      "id": "224489",
+      "id": 224489,
       "name": "Cape Ouroboulos",
       "color": "Classique",
       "type": "Bonus",
@@ -3911,7 +3911,7 @@
       "level": "78"
   },
   {
-      "id": "224490",
+      "id": 224490,
       "name": "Blémiche",
       "color": "Classique",
       "type": "Bonus",
@@ -3919,7 +3919,7 @@
       "level": "108"
   },
   {
-      "id": "224491",
+      "id": 224491,
       "name": "Kanistère",
       "color": "Classique",
       "type": "Bonus",
@@ -3927,7 +3927,7 @@
       "level": "115"
   },
   {
-      "id": "224492",
+      "id": 224492,
       "name": "Couronne du Mansot Royal",
       "color": "Classique",
       "type": "Bonus",
@@ -3935,7 +3935,7 @@
       "level": "136"
   },
   {
-      "id": "224493",
+      "id": 224493,
       "name": "Larves",
       "color": "Classique",
       "type": "Bonus",
@@ -3943,7 +3943,7 @@
       "level": "20"
   },
   {
-      "id": "224494",
+      "id": 224494,
       "name": "Plantes des champs",
       "color": "Classique",
       "type": "Bonus",
@@ -3951,7 +3951,7 @@
       "level": "20"
   },
   {
-      "id": "224495",
+      "id": 224495,
       "name": "Vermines des champs",
       "color": "Classique",
       "type": "Bonus",
@@ -3959,7 +3959,7 @@
       "level": "20"
   },
   {
-      "id": "224496",
+      "id": 224496,
       "name": "Pichons",
       "color": "Classique",
       "type": "Bonus",
@@ -3967,7 +3967,7 @@
       "level": "20"
   },
   {
-      "id": "224497",
+      "id": 224497,
       "name": "Animalades",
       "color": "Classique",
       "type": "Bonus",
@@ -3975,7 +3975,7 @@
       "level": "15"
   },
   {
-      "id": "224498",
+      "id": 224498,
       "name": "Pious",
       "color": "Classique",
       "type": "Bonus",
@@ -3983,7 +3983,7 @@
       "level": "15"
   },
   {
-      "id": "224499",
+      "id": 224499,
       "name": "Bouftous d'Incarnam",
       "color": "Classique",
       "type": "Bonus",
@@ -3991,7 +3991,7 @@
       "level": "5"
   },
   {
-      "id": "224500",
+      "id": 224500,
       "name": "Chafers d'Incarnam",
       "color": "Classique",
       "type": "Bonus",
@@ -3999,7 +3999,7 @@
       "level": "5"
   },
   {
-      "id": "224501",
+      "id": 224501,
       "name": "Chapardam",
       "color": "Classique",
       "type": "Bonus",
@@ -4007,7 +4007,7 @@
       "level": "5"
   },
   {
-      "id": "224502",
+      "id": 224502,
       "name": "Feux spirituels",
       "color": "Classique",
       "type": "Bonus",
@@ -4015,7 +4015,7 @@
       "level": "5"
   },
   {
-      "id": "224503",
+      "id": 224503,
       "name": "Gloots",
       "color": "Classique",
       "type": "Bonus",
@@ -4023,7 +4023,7 @@
       "level": "5"
   },
   {
-      "id": "224504",
+      "id": 224504,
       "name": "Monstres des champs d'Incarnam",
       "color": "Classique",
       "type": "Bonus",
@@ -4031,7 +4031,7 @@
       "level": "5"
   },
   {
-      "id": "224505",
+      "id": 224505,
       "name": "Kardorim",
       "color": "Classique",
       "type": "Bonus",
@@ -4039,7 +4039,7 @@
       "level": "10"
   },
   {
-      "id": "224506",
+      "id": 224506,
       "name": "Bottes de force",
       "color": "Classique",
       "type": "Bonus",
@@ -4047,7 +4047,7 @@
       "level": "1"
   },
   {
-      "id": "224507",
+      "id": 224507,
       "name": "Koliet Aclou",
       "color": "Classique",
       "type": "Bonus",
@@ -4055,7 +4055,7 @@
       "level": "1"
   },
   {
-      "id": "224508",
+      "id": 224508,
       "name": "Pelle de Boisaille",
       "color": "Classique",
       "type": "Bonus",
@@ -4063,7 +4063,7 @@
       "level": "6"
   },
   {
-      "id": "224509",
+      "id": 224509,
       "name": "Arc de Boisaille",
       "color": "Classique",
       "type": "Bonus",
@@ -4071,7 +4071,7 @@
       "level": "7"
   },
   {
-      "id": "224510",
+      "id": 224510,
       "name": "Louffeur",
       "color": "Classique",
       "type": "Bonus",
@@ -4079,7 +4079,7 @@
       "level": "1"
   },
   {
-      "id": "224511",
+      "id": 224511,
       "name": "Stèle",
       "color": "Classique",
       "type": "Bonus",
@@ -4087,7 +4087,7 @@
       "level": "1"
   },
   {
-      "id": "224512",
+      "id": 224512,
       "name": "Stèle mortuaire",
       "color": "Classique",
       "type": "Bonus",
@@ -4095,7 +4095,7 @@
       "level": "1"
   },
   {
-      "id": "224513",
+      "id": 224513,
       "name": "Lucky cat",
       "color": "Classique",
       "type": "Bonus",
@@ -4103,7 +4103,7 @@
       "level": "1"
   },
   {
-      "id": "224514",
+      "id": 224514,
       "name": "Statuette manoir lhambadda",
       "color": "Classique",
       "type": "Bonus",
@@ -4111,7 +4111,7 @@
       "level": "1"
   },
   {
-      "id": "224515",
+      "id": 224515,
       "name": "Potion Raide Dite",
       "color": "Classique",
       "type": "Pique",
@@ -4119,7 +4119,7 @@
       "level": "30"
   },
   {
-      "id": "224516",
+      "id": 224516,
       "name": "Potion Raide Izdaide",
       "color": "Classique",
       "type": "Pique",
@@ -4127,7 +4127,7 @@
       "level": "150"
   },
   {
-      "id": "224517",
+      "id": 224517,
       "name": "Potion rouge",
       "color": "Classique",
       "type": "Pique",
@@ -4135,7 +4135,7 @@
       "level": "1"
   },
   {
-      "id": "224518",
+      "id": 224518,
       "name": "Potion de glandage",
       "color": "Classique",
       "type": "Pique",
@@ -4143,7 +4143,7 @@
       "level": "175"
   },
   {
-      "id": "224519",
+      "id": 224519,
       "name": "Potion revitalisante",
       "color": "Classique",
       "type": "Pique",
@@ -4151,7 +4151,7 @@
       "level": "180"
   },
   {
-      "id": "224520",
+      "id": 224520,
       "name": "Potion fromagère",
       "color": "Classique",
       "type": "Pique",
@@ -4159,7 +4159,7 @@
       "level": "180"
   },
   {
-      "id": "224521",
+      "id": 224521,
       "name": "Potion d'invocation de percepteur",
       "color": "Classique",
       "type": "Pique",
@@ -4167,7 +4167,7 @@
       "level": "180"
   },
   {
-      "id": "224522",
+      "id": 224522,
       "name": "Bois de Chataignier",
       "color": "Classique",
       "type": "Pique",
@@ -4175,7 +4175,7 @@
       "level": "10"
   },
   {
-      "id": "224523",
+      "id": 224523,
       "name": "Bois de chêne",
       "color": "Classique",
       "type": "Pique",
@@ -4183,7 +4183,7 @@
       "level": "60"
   },
   {
-      "id": "224524",
+      "id": 224524,
       "name": "Substrat de fascine",
       "color": "Classique",
       "type": "Pique",
@@ -4191,7 +4191,7 @@
       "level": "80"
   },
   {
-      "id": "224525",
+      "id": 224525,
       "name": "Substrat de bosquet",
       "color": "Rare",
       "type": "Pique",
@@ -4199,7 +4199,7 @@
       "level": "100"
   },
   {
-      "id": "224526",
+      "id": 224526,
       "name": "Beignet astrubien",
       "color": "Classique",
       "type": "Pique",
@@ -4207,7 +4207,7 @@
       "level": "20"
   },
   {
-      "id": "224527",
+      "id": 224527,
       "name": "Salade sufokienne",
       "color": "Classique",
       "type": "Pique",
@@ -4215,7 +4215,7 @@
       "level": "50"
   },
   {
-      "id": "224528",
+      "id": 224528,
       "name": "Parmentier à l'oignon",
       "color": "Classique",
       "type": "Pique",
@@ -4223,7 +4223,7 @@
       "level": "70"
   },
   {
-      "id": "224529",
+      "id": 224529,
       "name": "Quenelle Tijan Fortifiante",
       "color": "Rare",
       "type": "Pique",
@@ -4231,7 +4231,7 @@
       "level": "180"
   },
   {
-      "id": "224530",
+      "id": 224530,
       "name": "Saphir",
       "color": "Classique",
       "type": "Pique",
@@ -4239,7 +4239,7 @@
       "level": "30"
   },
   {
-      "id": "224531",
+      "id": 224531,
       "name": "Emeraude",
       "color": "Rare",
       "type": "Pique",
@@ -4247,7 +4247,7 @@
       "level": "50"
   },
   {
-      "id": "224532",
+      "id": 224532,
       "name": "Rune de signature",
       "color": "Rare",
       "type": "Pique",
@@ -4255,7 +4255,7 @@
       "level": "100"
   },
   {
-      "id": "224533",
+      "id": 224533,
       "name": "Pyrute",
       "color": "Classique",
       "type": "Pique",
@@ -4263,7 +4263,7 @@
       "level": "180"
   },
   {
-      "id": "224534",
+      "id": 224534,
       "name": "Orbe régénérant magistral",
       "color": "Classique",
       "type": "Pique",
@@ -4271,7 +4271,7 @@
       "level": "200"
   },
   {
-      "id": "224535",
+      "id": 224535,
       "name": "Michette",
       "color": "Classique",
       "type": "Pique",
@@ -4279,7 +4279,7 @@
       "level": "10"
   },
   {
-      "id": "224536",
+      "id": 224536,
       "name": "Sucre d'orge",
       "color": "Rare",
       "type": "Pique",
@@ -4287,7 +4287,7 @@
       "level": "20"
   },
   {
-      "id": "224537",
+      "id": 224537,
       "name": "Bûche de chêne",
       "color": "Classique",
       "type": "Pique",
@@ -4295,7 +4295,7 @@
       "level": "60"
   },
   {
-      "id": "224538",
+      "id": 224538,
       "name": "Faluche",
       "color": "Classique",
       "type": "Pique",
@@ -4303,7 +4303,7 @@
       "level": "120"
   },
   {
-      "id": "224539",
+      "id": 224539,
       "name": "Bûche de merisier",
       "color": "Classique",
       "type": "Pique",
@@ -4311,7 +4311,7 @@
       "level": "120"
   },
   {
-      "id": "224540",
+      "id": 224540,
       "name": "Pain Tahde",
       "color": "Classique",
       "type": "Pique",
@@ -4319,7 +4319,7 @@
       "level": "180"
   },
   {
-      "id": "224541",
+      "id": 224541,
       "name": "Beignet de greuvette",
       "color": "Classique",
       "type": "Pique",
@@ -4327,7 +4327,7 @@
       "level": "10"
   },
   {
-      "id": "224542",
+      "id": 224542,
       "name": "Bâton de crabe",
       "color": "Classique",
       "type": "Pique",
@@ -4335,7 +4335,7 @@
       "level": "30"
   },
   {
-      "id": "224543",
+      "id": 224543,
       "name": "Sardine à l'étouffée",
       "color": "Classique",
       "type": "Pique",
@@ -4343,7 +4343,7 @@
       "level": "70"
   },
   {
-      "id": "224544",
+      "id": 224544,
       "name": "Brochet farci",
       "color": "Classique",
       "type": "Pique",
@@ -4351,7 +4351,7 @@
       "level": "80"
   },
   {
-      "id": "224545",
+      "id": 224545,
       "name": "Anguille souroche rôti",
       "color": "Classique",
       "type": "Pique",
@@ -4359,7 +4359,7 @@
       "level": "100"
   },
   {
-      "id": "224546",
+      "id": 224546,
       "name": "Aile de raie",
       "color": "Classique",
       "type": "Pique",
@@ -4367,7 +4367,7 @@
       "level": "130"
   },
   {
-      "id": "224547",
+      "id": 224547,
       "name": "Aileron de requin",
       "color": "Classique",
       "type": "Pique",
@@ -4375,7 +4375,7 @@
       "level": "150"
   },
   {
-      "id": "224548",
+      "id": 224548,
       "name": "Bar grillé",
       "color": "Rare",
       "type": "Pique",
@@ -4383,7 +4383,7 @@
       "level": "160"
   },
   {
-      "id": "224549",
+      "id": 224549,
       "name": "Amulette du scorbute",
       "color": "Classique",
       "type": "Pique",
@@ -4391,7 +4391,7 @@
       "level": "72"
   },
   {
-      "id": "224550",
+      "id": 224550,
       "name": "Talisman doline",
       "color": "Classique",
       "type": "Pique",
@@ -4399,7 +4399,7 @@
       "level": "137"
   },
   {
-      "id": "224551",
+      "id": 224551,
       "name": "Anneau XLII",
       "color": "Classique",
       "type": "Pique",
@@ -4407,7 +4407,7 @@
       "level": "171"
   },
   {
-      "id": "224552",
+      "id": 224552,
       "name": "Anneau chevelu",
       "color": "Rare",
       "type": "Pique",
@@ -4415,7 +4415,7 @@
       "level": "180"
   },
   {
-      "id": "224553",
+      "id": 224553,
       "name": "Alliance sorcelée",
       "color": "Classique",
       "type": "Pique",
@@ -4423,7 +4423,7 @@
       "level": "187"
   },
   {
-      "id": "224554",
+      "id": 224554,
       "name": "Clef du donjon des squelettes",
       "color": "Classique",
       "type": "Pique",
@@ -4431,7 +4431,7 @@
       "level": "40"
   },
   {
-      "id": "224555",
+      "id": 224555,
       "name": "Clef du laboratoire de brumen tictorias",
       "color": "Classique",
       "type": "Pique",
@@ -4439,7 +4439,7 @@
       "level": "70"
   },
   {
-      "id": "224556",
+      "id": 224556,
       "name": "Clef du domaine ancestral",
       "color": "Classique",
       "type": "Pique",
@@ -4447,7 +4447,7 @@
       "level": "90"
   },
   {
-      "id": "224557",
+      "id": 224557,
       "name": "Clef du bateau du chouque",
       "color": "Classique",
       "type": "Pique",
@@ -4455,7 +4455,7 @@
       "level": "90"
   },
   {
-      "id": "224558",
+      "id": 224558,
       "name": "Pagne du muloubar",
       "color": "Classique",
       "type": "Pique",
@@ -4463,7 +4463,7 @@
       "level": "97"
   },
   {
-      "id": "224559",
+      "id": 224559,
       "name": "Bottes Hoktone",
       "color": "Classique",
       "type": "Pique",
@@ -4471,7 +4471,7 @@
       "level": "138"
   },
   {
-      "id": "224560",
+      "id": 224560,
       "name": "Chaussquales",
       "color": "Classique",
       "type": "Pique",
@@ -4479,7 +4479,7 @@
       "level": "173"
   },
   {
-      "id": "224561",
+      "id": 224561,
       "name": "Bottes répané",
       "color": "Classique",
       "type": "Pique",
@@ -4487,7 +4487,7 @@
       "level": "184"
   },
   {
-      "id": "224562",
+      "id": 224562,
       "name": "Ceinture de Klime",
       "color": "Classique",
       "type": "Pique",
@@ -4495,7 +4495,7 @@
       "level": "198"
   },
   {
-      "id": "224563",
+      "id": 224563,
       "name": "Horize mineure",
       "color": "Classique",
       "type": "Pique",
@@ -4503,7 +4503,7 @@
       "level": "35"
   },
   {
-      "id": "224564",
+      "id": 224564,
       "name": "Pikmi",
       "color": "Classique",
       "type": "Pique",
@@ -4511,7 +4511,7 @@
       "level": "77"
   },
   {
-      "id": "224565",
+      "id": 224565,
       "name": "Aroumb",
       "color": "Classique",
       "type": "Pique",
@@ -4519,7 +4519,7 @@
       "level": "80"
   },
   {
-      "id": "224566",
+      "id": 224566,
       "name": "Ultram",
       "color": "Classique",
       "type": "Pique",
@@ -4527,7 +4527,7 @@
       "level": "130"
   },
   {
-      "id": "224567",
+      "id": 224567,
       "name": "Bouclier du capitaine Amakna",
       "color": "Rare",
       "type": "Pique",
@@ -4535,7 +4535,7 @@
       "level": "200"
   },
   {
-      "id": "224568",
+      "id": 224568,
       "name": "Pelle en mousse",
       "color": "Classique",
       "type": "Pique",
@@ -4543,7 +4543,7 @@
       "level": "20"
   },
   {
-      "id": "224569",
+      "id": 224569,
       "name": "Lame du craqueleur",
       "color": "Classique",
       "type": "Pique",
@@ -4551,7 +4551,7 @@
       "level": "37"
   },
   {
-      "id": "224570",
+      "id": 224570,
       "name": "Hache Darsson",
       "color": "Classique",
       "type": "Pique",
@@ -4559,7 +4559,7 @@
       "level": "57"
   },
   {
-      "id": "224571",
+      "id": 224571,
       "name": "La griffe aiguisée",
       "color": "Classique",
       "type": "Pique",
@@ -4567,7 +4567,7 @@
       "level": "68"
   },
   {
-      "id": "224572",
+      "id": 224572,
       "name": "Pelle du mineur sombre",
       "color": "Classique",
       "type": "Pique",
@@ -4575,7 +4575,7 @@
       "level": "118"
   },
   {
-      "id": "224573",
+      "id": 224573,
       "name": "Hache du dragoeuf",
       "color": "Classique",
       "type": "Pique",
@@ -4583,7 +4583,7 @@
       "level": "126"
   },
   {
-      "id": "224574",
+      "id": 224574,
       "name": "Marteau pinière",
       "color": "Classique",
       "type": "Pique",
@@ -4591,7 +4591,7 @@
       "level": "135"
   },
   {
-      "id": "224575",
+      "id": 224575,
       "name": "Marteau d'Henual",
       "color": "Rare",
       "type": "Pique",
@@ -4599,7 +4599,7 @@
       "level": "193"
   },
   {
-      "id": "224576",
+      "id": 224576,
       "name": "Baguette cetera",
       "color": "Classique",
       "type": "Pique",
@@ -4607,7 +4607,7 @@
       "level": "43"
   },
   {
-      "id": "224577",
+      "id": 224577,
       "name": "Arc de flèche mauve",
       "color": "Classique",
       "type": "Pique",
@@ -4615,7 +4615,7 @@
       "level": "107"
   },
   {
-      "id": "224578",
+      "id": 224578,
       "name": "Crystal o'boul",
       "color": "Classique",
       "type": "Pique",
@@ -4623,7 +4623,7 @@
       "level": "24"
   },
   {
-      "id": "224579",
+      "id": 224579,
       "name": "Coiffe du dragon cochon",
       "color": "Classique",
       "type": "Pique",
@@ -4631,7 +4631,7 @@
       "level": "96"
   },
   {
-      "id": "224580",
+      "id": 224580,
       "name": "Coiffe du chêne mou",
       "color": "Classique",
       "type": "Pique",
@@ -4639,7 +4639,7 @@
       "level": "145"
   },
   {
-      "id": "224581",
+      "id": 224581,
       "name": "Cape Tivante",
       "color": "Rare",
       "type": "Pique",
@@ -4647,7 +4647,7 @@
       "level": "161"
   },
   {
-      "id": "224582",
+      "id": 224582,
       "name": "Animaux des champs",
       "color": "Classique",
       "type": "Pique",
@@ -4655,7 +4655,7 @@
       "level": "60"
   },
   {
-      "id": "224583",
+      "id": 224583,
       "name": "Gliglis",
       "color": "Classique",
       "type": "Pique",
@@ -4663,7 +4663,7 @@
       "level": "150"
   },
   {
-      "id": "224584",
+      "id": 224584,
       "name": "Ruffians de Cania",
       "color": "Classique",
       "type": "Pique",
@@ -4671,7 +4671,7 @@
       "level": "70"
   },
   {
-      "id": "224585",
+      "id": 224585,
       "name": "Truches",
       "color": "Classique",
       "type": "Pique",
@@ -4679,7 +4679,7 @@
       "level": "130"
   },
   {
-      "id": "224586",
+      "id": 224586,
       "name": "Alchillusions",
       "color": "Classique",
       "type": "Pique",
@@ -4687,7 +4687,7 @@
       "level": "190"
   },
   {
-      "id": "224587",
+      "id": 224587,
       "name": "Armutins",
       "color": "Classique",
       "type": "Pique",
@@ -4695,7 +4695,7 @@
       "level": "190"
   },
   {
-      "id": "224588",
+      "id": 224588,
       "name": "Givrefoux",
       "color": "Classique",
       "type": "Pique",
@@ -4703,7 +4703,7 @@
       "level": "170"
   },
   {
-      "id": "224589",
+      "id": 224589,
       "name": "Krobes",
       "color": "Classique",
       "type": "Pique",
@@ -4711,7 +4711,7 @@
       "level": "190"
   },
   {
-      "id": "224590",
+      "id": 224590,
       "name": "Bourgade",
       "color": "Classique",
       "type": "Pique",
@@ -4719,7 +4719,7 @@
       "level": "80"
   },
   {
-      "id": "224591",
+      "id": 224591,
       "name": "Sakaï",
       "color": "Classique",
       "type": "Pique",
@@ -4727,7 +4727,7 @@
       "level": "190"
   },
   {
-      "id": "224592",
+      "id": 224592,
       "name": "Crocs de verre",
       "color": "Classique",
       "type": "Pique",
@@ -4735,7 +4735,7 @@
       "level": "190"
   },
   {
-      "id": "224593",
+      "id": 224593,
       "name": "Larmes d'Ouronigride",
       "color": "Rare",
       "type": "Pique",
@@ -4743,7 +4743,7 @@
       "level": "160"
   },
   {
-      "id": "224594",
+      "id": 224594,
       "name": "Berceau d'Alma",
       "color": "Classique",
       "type": "Pique",
@@ -4751,7 +4751,7 @@
       "level": "150"
   },
   {
-      "id": "224595",
+      "id": 224595,
       "name": "Animaux de la forêt",
       "color": "Classique",
       "type": "Pique",
@@ -4759,7 +4759,7 @@
       "level": "30"
   },
   {
-      "id": "224596",
+      "id": 224596,
       "name": "Dragoeufs Protecteurs",
       "color": "Classique",
       "type": "Pique",
@@ -4767,7 +4767,7 @@
       "level": "120"
   },
   {
-      "id": "224597",
+      "id": 224597,
       "name": "Dragoss",
       "color": "Classique",
       "type": "Pique",
@@ -4775,7 +4775,7 @@
       "level": "100"
   },
   {
-      "id": "224598",
+      "id": 224598,
       "name": "Porcos",
       "color": "Classique",
       "type": "Pique",
@@ -4783,7 +4783,7 @@
       "level": "90"
   },
   {
-      "id": "224599",
+      "id": 224599,
       "name": "Kwaks",
       "color": "Classique",
       "type": "Pique",
@@ -4791,7 +4791,7 @@
       "level": "50"
   },
   {
-      "id": "224600",
+      "id": 224600,
       "name": "Chafers",
       "color": "Classique",
       "type": "Pique",
@@ -4799,7 +4799,7 @@
       "level": "50"
   },
   {
-      "id": "224601",
+      "id": 224601,
       "name": "Monstres du repos",
       "color": "Classique",
       "type": "Pique",
@@ -4807,7 +4807,7 @@
       "level": "40"
   },
   {
-      "id": "224602",
+      "id": 224602,
       "name": "Asservis",
       "color": "Rare",
       "type": "Pique",
@@ -4815,7 +4815,7 @@
       "level": "190"
   },
   {
-      "id": "224603",
+      "id": 224603,
       "name": "Kannibouls",
       "color": "Classique",
       "type": "Pique",
@@ -4823,7 +4823,7 @@
       "level": "60"
   },
   {
-      "id": "224604",
+      "id": 224604,
       "name": "Pirates de Moon",
       "color": "Rare",
       "type": "Pique",
@@ -4831,7 +4831,7 @@
       "level": "90"
   },
   {
-      "id": "224605",
+      "id": 224605,
       "name": "Jungle Obscure",
       "color": "Classique",
       "type": "Pique",
@@ -4839,7 +4839,7 @@
       "level": "100"
   },
   {
-      "id": "224606",
+      "id": 224606,
       "name": "Arche d'Otomaï",
       "color": "Classique",
       "type": "Pique",
@@ -4847,7 +4847,7 @@
       "level": "80"
   },
   {
-      "id": "224607",
+      "id": 224607,
       "name": "Tanuki",
       "color": "Classique",
       "type": "Pique",
@@ -4855,7 +4855,7 @@
       "level": "130"
   },
   {
-      "id": "224608",
+      "id": 224608,
       "name": "Yokianzhi d'encre",
       "color": "Classique",
       "type": "Pique",
@@ -4863,7 +4863,7 @@
       "level": "190"
   },
   {
-      "id": "224609",
+      "id": 224609,
       "name": "Maudits",
       "color": "Classique",
       "type": "Pique",
@@ -4871,7 +4871,7 @@
       "level": "190"
   },
   {
-      "id": "224610",
+      "id": 224610,
       "name": "Gros tofus",
       "color": "Rare",
       "type": "Pique",
@@ -4879,7 +4879,7 @@
       "level": "120"
   },
   {
-      "id": "224611",
+      "id": 224611,
       "name": "Grand Jeu",
       "color": "Classique",
       "type": "Pique",
@@ -4887,7 +4887,7 @@
       "level": "190"
   },
   {
-      "id": "224612",
+      "id": 224612,
       "name": "Fungus",
       "color": "Classique",
       "type": "Pique",
@@ -4895,7 +4895,7 @@
       "level": "180"
   },
   {
-      "id": "224613",
+      "id": 224613,
       "name": "Mulous",
       "color": "Classique",
       "type": "Pique",
@@ -4903,7 +4903,7 @@
       "level": "100"
   },
   {
-      "id": "224614",
+      "id": 224614,
       "name": "Bandits",
       "color": "Classique",
       "type": "Pique",
@@ -4911,7 +4911,7 @@
       "level": "50"
   },
   {
-      "id": "224615",
+      "id": 224615,
       "name": "Kanigroula",
       "color": "Classique",
       "type": "Pique",
@@ -4919,7 +4919,7 @@
       "level": "160"
   },
   {
-      "id": "224616",
+      "id": 224616,
       "name": "Klime",
       "color": "Classique",
       "type": "Pique",
@@ -4927,7 +4927,7 @@
       "level": "190"
   },
   {
-      "id": "224617",
+      "id": 224617,
       "name": "Kolosso",
       "color": "Classique",
       "type": "Pique",
@@ -4935,7 +4935,7 @@
       "level": "190"
   },
   {
-      "id": "224618",
+      "id": 224618,
       "name": "Obsidiantre",
       "color": "Rare",
       "type": "Pique",
@@ -4943,7 +4943,7 @@
       "level": "160"
   },
   {
-      "id": "224619",
+      "id": 224619,
       "name": "Comte Harebourg",
       "color": "Classique",
       "type": "Pique",
@@ -4951,7 +4951,7 @@
       "level": "190"
   },
   {
-      "id": "224620",
+      "id": 224620,
       "name": "Abraknyde ancestral",
       "color": "Rare",
       "type": "Pique",
@@ -4959,7 +4959,7 @@
       "level": "90"
   },
   {
-      "id": "224621",
+      "id": 224621,
       "name": "Comte Razof",
       "color": "Classique",
       "type": "Pique",
@@ -4967,7 +4967,7 @@
       "level": "190"
   },
   {
-      "id": "224622",
+      "id": 224622,
       "name": "Craqueleur légendaire",
       "color": "Classique",
       "type": "Pique",
@@ -4975,7 +4975,7 @@
       "level": "70"
   },
   {
-      "id": "224623",
+      "id": 224623,
       "name": "Corruption",
       "color": "Classique",
       "type": "Pique",
@@ -4983,7 +4983,7 @@
       "level": "190"
   },
   {
-      "id": "224624",
+      "id": 224624,
       "name": "Wa Wabbit",
       "color": "Rare",
       "type": "Pique",
@@ -4991,7 +4991,7 @@
       "level": "60"
   },
   {
-      "id": "224625",
+      "id": 224625,
       "name": "Silf le rasboul majeur",
       "color": "Classique",
       "type": "Pique",
@@ -4999,7 +4999,7 @@
       "level": "110"
   },
   {
-      "id": "224626",
+      "id": 224626,
       "name": "Minotoror",
       "color": "Classique",
       "type": "Pique",
@@ -5007,7 +5007,7 @@
       "level": "120"
   },
   {
-      "id": "224627",
+      "id": 224627,
       "name": "Founoroshi",
       "color": "Classique",
       "type": "Pique",
@@ -5015,7 +5015,7 @@
       "level": "140"
   },
   {
-      "id": "224628",
+      "id": 224628,
       "name": "Hanshi",
       "color": "Classique",
       "type": "Pique",
@@ -5023,7 +5023,7 @@
       "level": "140"
   },
   {
-      "id": "224629",
+      "id": 224629,
       "name": "Nagate",
       "color": "Classique",
       "type": "Pique",
@@ -5031,7 +5031,7 @@
       "level": "130"
   },
   {
-      "id": "224630",
+      "id": 224630,
       "name": "Reine d'Amirukam",
       "color": "Classique",
       "type": "Pique",
@@ -5039,7 +5039,7 @@
       "level": "190"
   },
   {
-      "id": "224631",
+      "id": 224631,
       "name": "Bouftou Royal",
       "color": "Classique",
       "type": "Pique",
@@ -5047,7 +5047,7 @@
       "level": "30"
   },
   {
-      "id": "224632",
+      "id": 224632,
       "name": "Tournesol Affamé",
       "color": "Classique",
       "type": "Pique",
@@ -5055,7 +5055,7 @@
       "level": "20"
   },
   {
-      "id": "224633",
+      "id": 224633,
       "name": "Batofu",
       "color": "Classique",
       "type": "Pique",
@@ -5063,7 +5063,7 @@
       "level": "40"
   },
   {
-      "id": "224634",
+      "id": 224634,
       "name": "Tofu royal",
       "color": "Rare",
       "type": "Pique",
@@ -5071,7 +5071,7 @@
       "level": "120"
   },
   {
-      "id": "224635",
+      "id": 224635,
       "name": "Reine des voleurs",
       "color": "Classique",
       "type": "Pique",
@@ -5079,7 +5079,7 @@
       "level": "190"
   },
   {
-      "id": "224636",
+      "id": 224636,
       "name": "XLII",
       "color": "Classique",
       "type": "Pique",
@@ -5087,7 +5087,7 @@
       "level": "170"
   },
   {
-      "id": "224637",
+      "id": 224637,
       "name": "Ougah",
       "color": "Classique",
       "type": "Pique",
@@ -5095,7 +5095,7 @@
       "level": "180"
   },
   {
-      "id": "224638",
+      "id": 224638,
       "name": "Anerice la shushess",
       "color": "Classique",
       "type": "Pique",
@@ -5103,7 +5103,7 @@
       "level": "190"
   },
   {
-      "id": "224639",
+      "id": 224639,
       "name": "Sphincter cell",
       "color": "Classique",
       "type": "Pique",
@@ -5111,7 +5111,7 @@
       "level": "150"
   },
   {
-      "id": "224640",
+      "id": 224640,
       "name": "Koulosse",
       "color": "Classique",
       "type": "Pique",
@@ -5119,7 +5119,7 @@
       "level": "100"
   },
   {
-      "id": "224641",
+      "id": 224641,
       "name": "Coffre des forgerons",
       "color": "Classique",
       "type": "Pique",
@@ -5127,7 +5127,7 @@
       "level": "50"
   },
   {
-      "id": "224642",
+      "id": 224642,
       "name": "Damadrya",
       "color": "Classique",
       "type": "Pique",
@@ -5135,7 +5135,7 @@
       "level": "110"
   },
   {
-      "id": "224643",
+      "id": 224643,
       "name": "Fragment",
       "color": "Inconnu",
       "type": "Fragment",
@@ -5143,7 +5143,7 @@
       "level": "1"
   },
   {
-      "id": "224644",
+      "id": 224644,
       "name": "Fragment",
       "color": "Inconnu",
       "type": "Fragment",
@@ -5151,7 +5151,7 @@
       "level": "1"
   },
   {
-      "id": "224645",
+      "id": 224645,
       "name": "Fragment",
       "color": "Inconnu",
       "type": "Fragment",
@@ -5159,7 +5159,7 @@
       "level": "1"
   },
   {
-      "id": "224646",
+      "id": 224646,
       "name": "Fragment",
       "color": "Inconnu",
       "type": "Fragment",
@@ -5167,7 +5167,7 @@
       "level": "1"
   },
   {
-      "id": "224647",
+      "id": 224647,
       "name": "Fragment",
       "color": "Inconnu",
       "type": "Fragment",
@@ -5175,7 +5175,7 @@
       "level": "1"
   },
   {
-      "id": "224648",
+      "id": 224648,
       "name": "Fragment",
       "color": "Inconnu",
       "type": "Fragment",
@@ -5183,7 +5183,7 @@
       "level": "1"
   },
   {
-      "id": "224649",
+      "id": 224649,
       "name": "Fragment",
       "color": "Inconnu",
       "type": "Fragment",
@@ -5191,7 +5191,7 @@
       "level": "1"
   },
   {
-      "id": "224650",
+      "id": 224650,
       "name": "Fragment",
       "color": "Inconnu",
       "type": "Fragment",
@@ -5199,7 +5199,7 @@
       "level": "1"
   },
   {
-      "id": "224651",
+      "id": 224651,
       "name": "Fragment",
       "color": "Inconnu",
       "type": "Fragment",
@@ -5207,7 +5207,7 @@
       "level": "1"
   },
   {
-      "id": "224652",
+      "id": 224652,
       "name": "Fragment",
       "color": "Inconnu",
       "type": "Fragment",
