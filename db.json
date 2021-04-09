@@ -4121,11 +4121,11 @@
     },
     {
         "id": 224516,
-        "name": "Potion Raide Izdaide",
+        "name": "Potion Raide Emption",
         "color": "Classique",
-        "type": "Pique",
+        "type": "Bonus",
         "profession": "Alchimiste",
-        "level": 150
+        "level": 130
     },
     {
         "id": 224517,
