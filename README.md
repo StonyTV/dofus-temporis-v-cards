@@ -7,12 +7,12 @@ Ce dépôt permet d'héberger les données issues du site Dofus pour l'événeme
 
 **Sprites 40x40**
 ```bash
-/items/40
+/items/40/
 ```
 
 **Sprites 200x200**
 ```bash
-/items/200
+/items/200/
 ```
 
 **Tous les items du jeu**
