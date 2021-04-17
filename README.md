@@ -1,5 +1,7 @@
 # CHINQ.FR
 
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
+
 Ce dépôt permet d'héberger les données issues du site Dofus pour l'événement Temporis 5 du site [Chinq.fr](https://chinq.fr).
 
 
