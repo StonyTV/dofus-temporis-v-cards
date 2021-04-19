@@ -3529,11 +3529,11 @@
     },
     {
         "id": 224442,
-        "name": "Bottes agilesques",
+        "name": "Einekeineux",
         "color": "Classique",
         "type": "Bonus",
         "profession": "Cordonnier",
-        "level": 6
+        "level": 5
     },
     {
         "id": 224443,
