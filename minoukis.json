@@ -1,50 +1,62 @@
 [
   {
     "id": 126110,
-    "name": "Minouki Neko"
+    "name": "Minouki Neko",
+    "slots": [1, 1]
   },
   {
     "id": 126111,
-    "name": "Minouki Jubin"
+    "name": "Minouki Jubin",
+    "slots": [1, 4, 3]
   },
   {
     "id": 126112,
-    "name": "Minouki Mim"
+    "name": "Minouki Mim",
+    "slots": [1, 3, 2]
   },
   {
     "id": 126113,
-    "name": "Minouki Guribuye"
+    "name": "Minouki Guribuye",
+    "slots": [1, 2, 5]
   },
   {
     "id": 126114,
-    "name": "Minouki Alakalas"
+    "name": "Minouki Alakalas",
+    "slots": [1, 4 ,5]
   },
   {
     "id": 126115,
-    "name": "Minouki Kojite"
+    "name": "Minouki Kojite",
+    "slots": [1, 4, 2]
   },
   {
     "id": 126116,
-    "name": "Minouki Aizoli"
+    "name": "Minouki Aizoli",
+    "slots": [1, 3, 5]
   },
   {
     "id": 126121,
-    "name": "Minouki Ginyote"
+    "name": "Minouki Ginyote",
+    "slots": [4, 3, 5]
   },
   {
     "id": 126118,
-    "name": "Minouki Pudu"
+    "name": "Minouki Pudu",
+    "slots": [4, 3, 2]
   },
   {
     "id": 126119,
-    "name": "Minouki Boalatas"
+    "name": "Minouki Boalatas",
+    "slots": [3, 2, 5]
   },
   {
     "id": 126120,
-    "name": "Minouki Kuroke"
+    "name": "Minouki Kuroke",
+    "slots": [4, 2, 5]
   },
   {
     "id": 126117,
-    "name": "Minouki Delukuse"
+    "name": "Minouki Delukuse",
+    "slots": [1, 1, 1]
   }
 ]
